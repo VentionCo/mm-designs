@@ -1,0 +1,19 @@
+/doc/MachineMotion.ldb
+/.idea/workspace.xml
+/.vscode
+/node_modules/
+/node_modules/*
+/LibrarySaveArea*
+/ConfigCheckerSaveArea*
+/CloudSaveArea*
+/.idea/runConfigurations/bin_www.xml
+/bin/LibrarySaveArea
+# Avoid mac DS_Store
+.DS_Store
+logs/
+.idea/
+.dir-locals.el
+.update-server.log
+build/
+dist
+install
