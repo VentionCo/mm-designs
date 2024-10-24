@@ -1,9 +1,9 @@
 {
-  "format_version": 6,
+  "format_version": 10,
   "format_version_initial": 5,
   "label": "edited_269600",
   "attributes": {
-    "design_id": 269600,
+    "design_id": 13284,
     "design_version": null,
     "measurements": {
       "type": "line",
@@ -25,7 +25,8 @@
       "after_parts_added": true,
       "after_design_saved": false,
       "after_design_exported": false
-    }
+    },
+    "cut_to_length": {}
   },
   "vertices_by_index": [
     {
@@ -55,6 +56,7 @@
         },
         "visibility": true,
         "dofs": [],
+        "vertex_type": "part",
         "hoops_id": 4294967296
       },
       "edges": [
@@ -68,7 +70,8 @@
         "short_name": "Screw-in Cable Tie Mount_82",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -79,7 +82,8 @@
         "short_name": "Screw-in Cable Tie Mount_83",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -90,7 +94,8 @@
         "short_name": "Screw-in Cable Tie Mount_84",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -101,7 +106,8 @@
         "short_name": "Screw-in Cable Tie Mount_85",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -112,7 +118,8 @@
         "short_name": "Screw-in Cable Tie Mount_86",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -123,7 +130,8 @@
         "short_name": "Screw-in Cable Tie Mount_87",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -134,7 +142,8 @@
         "short_name": "Screw-in Cable Tie Mount_88",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -145,7 +154,8 @@
         "short_name": "Screw-in Cable Tie Mount_89",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -156,7 +166,8 @@
         "short_name": "Screw-in Cable Tie Mount_90",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -167,7 +178,8 @@
         "short_name": "Screw-in Cable Tie Mount_91",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -178,7 +190,8 @@
         "short_name": "Screw-in Cable Tie Mount_92",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -189,7 +202,8 @@
         "short_name": "Screw-in Cable Tie Mount_93",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -200,7 +214,8 @@
         "short_name": "Screw-in Cable Tie Mount_94",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -211,7 +226,8 @@
         "short_name": "Screw-in Cable Tie Mount_95",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -222,7 +238,8 @@
         "short_name": "Screw-in Cable Tie Mount_96",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -233,7 +250,8 @@
         "short_name": "Screw-in Cable Tie Mount_97",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -244,7 +262,8 @@
         "short_name": "Screw-in Cable Tie Mount_98",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -255,7 +274,8 @@
         "short_name": "Screw-in Cable Tie Mount_99",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -266,7 +286,8 @@
         "short_name": "Screw-in Cable Tie Mount_100",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -277,7 +298,8 @@
         "short_name": "Screw-in Cable Tie Mount_101",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -288,7 +310,8 @@
         "short_name": "Screw-in Cable Tie Mount_102",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -299,7 +322,8 @@
         "short_name": "Screw-in Cable Tie Mount_103",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -310,7 +334,8 @@
         "short_name": "Screw-in Cable Tie Mount_104",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -321,7 +346,8 @@
         "short_name": "Screw-in Cable Tie Mount_105",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -332,7 +358,8 @@
         "short_name": "Screw-in Cable Tie Mount_106",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -343,7 +370,8 @@
         "short_name": "5mm x 250mm Cable Tie (bag of 25) _107",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -354,7 +382,8 @@
         "short_name": "5mm x 250mm Cable Tie (bag of 25) _108",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -365,7 +394,8 @@
         "short_name": "5mm x 250mm Cable Tie (bag of 25) _109",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -376,7 +406,8 @@
         "short_name": "5mm x 250mm Cable Tie (bag of 25) _110",
         "opacity": 0,
         "visibility": false,
-        "add_on": true
+        "add_on": true,
+        "vertex_type": "addon"
       },
       "edges": []
     },
@@ -407,7 +438,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 8589934592
+        "vertex_type": "part",
+        "hoops_id": 12884901888
       },
       "edges": [
         8589934683,
@@ -444,7 +476,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -71
+        "vertex_type": "part",
+        "hoops_id": -73
       },
       "edges": [
         8589934684,
@@ -480,7 +513,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -72
+        "vertex_type": "part",
+        "hoops_id": -74
       },
       "edges": [
         8589934691,
@@ -516,7 +550,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -73
+        "vertex_type": "part",
+        "hoops_id": -75
       },
       "edges": [
         8589934700,
@@ -551,7 +586,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -74
+        "vertex_type": "part",
+        "hoops_id": -76
       },
       "edges": [
         8589934711,
@@ -587,7 +623,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -75
+        "vertex_type": "part",
+        "hoops_id": -77
       },
       "edges": [
         8589934717,
@@ -626,7 +663,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -76
+        "vertex_type": "part",
+        "hoops_id": -78
       },
       "edges": [
         8589934721,
@@ -666,7 +704,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 12884901888
+        "vertex_type": "part",
+        "hoops_id": 8589934592
       },
       "edges": [
         8589934734,
@@ -708,7 +747,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -77
+        "vertex_type": "part",
+        "hoops_id": -79
       },
       "edges": [
         8589934729,
@@ -746,7 +786,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -78
+        "vertex_type": "part",
+        "hoops_id": -80
       },
       "edges": [
         8589934746,
@@ -790,7 +831,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -79
+        "vertex_type": "part",
+        "hoops_id": -81
       },
       "edges": [
         8589934715,
@@ -828,7 +870,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 94489280512
+        "vertex_type": "part",
+        "hoops_id": 34359738368
       },
       "edges": [
         8589934711,
@@ -874,7 +917,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 111669149696
+        "vertex_type": "part",
+        "hoops_id": 38654705664
       },
       "edges": [
         8589934786
@@ -907,7 +951,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 17179869184
+        "vertex_type": "part",
+        "hoops_id": 42949672960
       },
       "edges": [
         8589934786,
@@ -941,7 +986,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -80
+        "vertex_type": "part",
+        "hoops_id": -82
       },
       "edges": [
         8589934787,
@@ -975,7 +1021,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -81
+        "vertex_type": "part",
+        "hoops_id": -83
       },
       "edges": [
         8589934787
@@ -1008,7 +1055,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -82
+        "vertex_type": "part",
+        "hoops_id": -111
       },
       "edges": [
         8589934683,
@@ -1055,7 +1103,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 21474836480
+        "vertex_type": "part",
+        "hoops_id": 47244640256
       },
       "edges": []
     },
@@ -1086,7 +1135,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -83
+        "vertex_type": "part",
+        "hoops_id": -114
       },
       "edges": [
         8589934708
@@ -1119,7 +1169,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -84
+        "vertex_type": "part",
+        "hoops_id": -117
       },
       "edges": []
     },
@@ -1150,7 +1201,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -85
+        "vertex_type": "part",
+        "hoops_id": -120
       },
       "edges": [
         8589934946,
@@ -1185,7 +1237,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -86
+        "vertex_type": "part",
+        "hoops_id": -123
       },
       "edges": [
         8589934686,
@@ -1219,7 +1272,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -87
+        "vertex_type": "part",
+        "hoops_id": -126
       },
       "edges": [
         8589934774
@@ -1252,7 +1306,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -88
+        "vertex_type": "part",
+        "hoops_id": -129
       },
       "edges": [
         8589934775,
@@ -1286,7 +1341,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -89
+        "vertex_type": "part",
+        "hoops_id": -132
       },
       "edges": [
         8589934947,
@@ -1321,7 +1377,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 90194313216
+        "vertex_type": "part",
+        "hoops_id": 17179869184
       },
       "edges": [
         8589934956,
@@ -1355,7 +1412,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 25769803776
+        "vertex_type": "part",
+        "hoops_id": 30064771072
       },
       "edges": [
         8589934803
@@ -1388,7 +1446,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 85899345920
+        "vertex_type": "part",
+        "hoops_id": 25769803776
       },
       "edges": [
         8589934803,
@@ -1422,7 +1481,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -90
+        "vertex_type": "part",
+        "hoops_id": -135
       },
       "edges": [
         8589934804,
@@ -1456,7 +1516,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -91
+        "vertex_type": "part",
+        "hoops_id": -138
       },
       "edges": [
         8589934805,
@@ -1490,7 +1551,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -92
+        "vertex_type": "part",
+        "hoops_id": -141
       },
       "edges": [
         8589934805,
@@ -1524,7 +1586,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -93
+        "vertex_type": "part",
+        "hoops_id": -144
       },
       "edges": [
         8589934806
@@ -1557,7 +1620,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -94
+        "vertex_type": "part",
+        "hoops_id": -147
       },
       "edges": [
         8589934814
@@ -1590,7 +1654,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -95
+        "vertex_type": "part",
+        "hoops_id": -155
       },
       "edges": [
         8589934814,
@@ -1624,7 +1689,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -96
+        "vertex_type": "part",
+        "hoops_id": -158
       },
       "edges": [
         8589934815,
@@ -1658,7 +1724,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -97
+        "vertex_type": "part",
+        "hoops_id": -161
       },
       "edges": [
         8589934815
@@ -1691,7 +1758,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -98
+        "vertex_type": "part",
+        "hoops_id": -169
       },
       "edges": [
         8589934961,
@@ -1725,7 +1793,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -99
+        "vertex_type": "part",
+        "hoops_id": -173
       },
       "edges": [
         8589934816
@@ -1758,7 +1827,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -100
+        "vertex_type": "part",
+        "hoops_id": -176
       },
       "edges": [
         8589934816,
@@ -1792,7 +1862,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -101
+        "vertex_type": "part",
+        "hoops_id": -179
       },
       "edges": [
         8589934817,
@@ -1826,7 +1897,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -102
+        "vertex_type": "part",
+        "hoops_id": -182
       },
       "edges": [
         8589934818
@@ -1859,7 +1931,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -103
+        "vertex_type": "part",
+        "hoops_id": -185
       },
       "edges": [
         8589934818,
@@ -1893,7 +1966,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -104
+        "vertex_type": "part",
+        "hoops_id": -188
       },
       "edges": [
         8589934819,
@@ -1927,7 +2001,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -105
+        "vertex_type": "part",
+        "hoops_id": -191
       },
       "edges": [
         8589934751
@@ -1960,7 +2035,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -106
+        "vertex_type": "part",
+        "hoops_id": -194
       },
       "edges": [
         8589934951,
@@ -1995,7 +2071,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": 30064771072
+        "vertex_type": "part",
+        "hoops_id": 21474836480
       },
       "edges": [
         8589934941
@@ -2027,7 +2104,7 @@
             1
           ]
         },
-        "inner_matrices_baseid": 107374182400,
+        "inner_matrices_baseid": 68719476736,
         "inner_matrices": [
           {
             "hnode_name": "HW-FN-030-0008_HW-FN-030-0008",
@@ -2046,9 +2123,9 @@
                 1.0000000000000002,
                 -7.497513959114776e-17,
                 0,
-                -37.25000000000005,
-                44.8600000000001,
-                675.9999999999997,
+                -37.25,
+                44.85999999999967,
+                675.9999999999995,
                 1
               ]
             }
@@ -2070,9 +2147,9 @@
                 0,
                 1,
                 0,
-                -1.3010426069826053e-15,
-                1.734723475976807e-15,
-                -24.999999999999996,
+                0,
+                0,
+                -25,
                 1
               ]
             }
@@ -2094,8 +2171,8 @@
                 0,
                 1,
                 0,
-                8.673617379884035e-15,
-                5.377642775528102e-14,
+                0,
+                0,
                 585,
                 1
               ]
@@ -2118,9 +2195,9 @@
                 1,
                 1.2325951644078314e-31,
                 0,
-                1.3877787807814457e-14,
-                42.50000000000007,
-                -71.25000000000001,
+                0,
+                42.5,
+                -71.25,
                 1
               ]
             }
@@ -2142,9 +2219,9 @@
                 1.0000000000000002,
                 -7.497513959114776e-17,
                 0,
-                37.249999999999694,
-                44.860000000000085,
-                636.0000000000001,
+                37.249999999999545,
+                44.85999999999967,
+                636,
                 1
               ]
             }
@@ -2166,9 +2243,9 @@
                 0,
                 1,
                 0,
-                -25.499999999999932,
-                -35.00000000000015,
-                -15.149999999999983,
+                -25.5,
+                -35,
+                -15.150000000000091,
                 1
               ]
             }
@@ -2191,7 +2268,7 @@
                 -9.723461371659884e-63,
                 0,
                 0,
-                5.5201045488421654e-14,
+                0,
                 -76.25,
                 1
               ]
@@ -2214,9 +2291,9 @@
                 0,
                 -1.0000000000000002,
                 0,
-                -25.500000000000018,
-                35.0000000000001,
-                600.1499999999997,
+                -25.5,
+                35,
+                600.1499999999996,
                 1
               ]
             }
@@ -2262,9 +2339,9 @@
                 0,
                 -1,
                 0,
-                5.2583805365546965e-15,
-                3.838075690598686e-14,
-                609.9999999999999,
+                0,
+                0,
+                610,
                 1
               ]
             }
@@ -2286,9 +2363,9 @@
                 1.0000000000000002,
                 -7.497513959114776e-17,
                 0,
-                -37.25000000000003,
-                44.86000000000009,
-                636.0000000000001,
+                -37.25,
+                44.85999999999967,
+                636,
                 1
               ]
             }
@@ -2670,8 +2747,8 @@
                 3.038581678640158e-63,
                 9.723461371660133e-63,
                 0,
-                20.289999999999996,
-                5.62217557192558e-14,
+                20.289999999999964,
+                0,
                 -76.25,
                 1
               ]
@@ -2694,9 +2771,9 @@
                 0,
                 1,
                 0,
-                -25.49999999999989,
-                34.99999999999986,
-                -15.149999999999997,
+                -25.5,
+                35,
+                -15.150000000000091,
                 1
               ]
             }
@@ -2718,9 +2795,9 @@
                 1.0000000000000002,
                 -7.497513959114776e-17,
                 0,
-                -37.25000000000005,
-                44.71000000000013,
-                -51.00000000000001,
+                -37.25,
+                44.710000000000036,
+                -51,
                 1
               ]
             }
@@ -2742,9 +2819,9 @@
                 1.0000000000000002,
                 -7.497513959114776e-17,
                 0,
-                37.25000000000009,
-                44.71000000000006,
-                -51.00000000000001,
+                37.25,
+                44.710000000000036,
+                -51,
                 1
               ]
             }
@@ -2766,9 +2843,9 @@
                 0,
                 -1.0000000000000002,
                 0,
-                25.499999999999986,
-                -34.99999999999992,
-                600.1499999999997,
+                25.5,
+                -35,
+                600.1499999999996,
                 1
               ]
             }
@@ -2790,9 +2867,9 @@
                 0,
                 -1.0000000000000002,
                 0,
-                -25.50000000000002,
-                -34.99999999999991,
-                600.1499999999997,
+                -25.5,
+                -35,
+                600.1499999999996,
                 1
               ]
             }
@@ -2814,8 +2891,8 @@
                 5.551115123125783e-16,
                 0,
                 0,
-                8.500145032286355e-14,
-                -1.5785983631388945e-13,
+                0,
+                0,
                 -76.25,
                 1
               ]
@@ -2838,8 +2915,8 @@
                 1.0000000000000002,
                 -7.497513959114776e-17,
                 0,
-                37.2500000000001,
-                44.71000000000006,
+                37.25,
+                44.710000000000036,
                 -91,
                 1
               ]
@@ -2862,9 +2939,9 @@
                 0,
                 1,
                 0,
-                25.500000000000107,
-                34.99999999999983,
-                -15.14999999999999,
+                25.5,
+                35,
+                -15.150000000000091,
                 1
               ]
             }
@@ -2886,9 +2963,9 @@
                 6.791962089509337e-16,
                 1.1445779854437504e-15,
                 0,
-                -31.70999999999968,
-                8.834236105236094e-13,
-                -76.24999999999987,
+                -31.70999999999958,
+                9.094947017729282e-13,
+                -76.25,
                 1
               ]
             }
@@ -2910,9 +2987,9 @@
                 5.3671806018760056e-15,
                 3.200031450191733e-15,
                 0,
-                32.29000000000066,
-                6.544643778831844e-13,
-                -76.25000000000023,
+                32.29000000000087,
+                9.094947017729282e-13,
+                -76.25,
                 1
               ]
             }
@@ -2934,9 +3011,9 @@
                 1.558199188645802e-15,
                 -6.490204309342712e-15,
                 0,
-                32.290000000000795,
-                -3.6827770046331576e-13,
-                661.2499999999994,
+                32.29000000000087,
+                0,
+                661.2499999999995,
                 1
               ]
             }
@@ -2958,9 +3035,9 @@
                 0,
                 1,
                 0,
-                25.50000000000006,
-                -35.00000000000016,
-                -15.14999999999999,
+                25.5,
+                -35,
+                -15.150000000000091,
                 1
               ]
             }
@@ -2982,9 +3059,9 @@
                 -3.820368671163323e-15,
                 -5.473896880938558e-15,
                 0,
-                -31.70999999999745,
-                -5.326316596691355e-13,
-                661.2499999999999,
+                -31.709999999997308,
+                -9.094947017729282e-13,
+                661.25,
                 1
               ]
             }
@@ -3006,9 +3083,9 @@
                 1.0000000000000002,
                 -7.497513959114776e-17,
                 0,
-                37.250000000000014,
-                44.960000000000065,
-                675.9999999999997,
+                37.25,
+                44.960000000000036,
+                675.9999999999995,
                 1
               ]
             }
@@ -3030,8 +3107,8 @@
                 1,
                 0,
                 0,
-                1.1199374760906267e-11,
-                42.65000000000012,
+                1.1368683772161603e-11,
+                42.650000000000546,
                 656.25,
                 1
               ]
@@ -3054,9 +3131,9 @@
                 0,
                 1,
                 0,
-                1.1372588745433062e-13,
-                42.50000000000023,
-                -98.74999999999994,
+                0,
+                42.5,
+                -98.75,
                 1
               ]
             }
@@ -3078,8 +3155,8 @@
                 1.0000000000000002,
                 -7.497513959114776e-17,
                 0,
-                -37.25000000000004,
-                44.71000000000013,
+                -37.25,
+                44.710000000000036,
                 -91,
                 1
               ]
@@ -3102,9 +3179,9 @@
                 5.961439807830603e-17,
                 1.398295385159797e-17,
                 0,
-                1.3166280132120844e-13,
-                1.0598231614085917e-13,
-                661.2499999999999,
+                0,
+                0,
+                661.25,
                 1
               ]
             }
@@ -3126,9 +3203,9 @@
                 -1.19228796156834e-16,
                 -2.796590770332604e-17,
                 0,
-                20.290000000000102,
-                9.849664719037137e-14,
-                661.2499999999999,
+                20.289999999999964,
+                0,
+                661.25,
                 1
               ]
             }
@@ -3150,8 +3227,8 @@
                 -0.25491834522093354,
                 -0.9669625831798359,
                 0,
-                38.790000000000006,
-                5.62217557192558e-14,
+                38.789999999999964,
+                0,
                 -76.25,
                 1
               ]
@@ -3174,9 +3251,9 @@
                 0,
                 0,
                 0,
-                -1.5666721392415526e-14,
-                9.703609443745262e-14,
-                661.2499999999999,
+                0,
+                0,
+                661.25,
                 1
               ]
             }
@@ -3198,9 +3275,9 @@
                 0,
                 -1.0000000000000002,
                 0,
-                25.49999999999999,
-                35.0000000000001,
-                600.1499999999997,
+                25.5,
+                35,
+                600.1499999999996,
                 1
               ]
             }
@@ -3222,9 +3299,9 @@
                 -0.6030296387275716,
                 0.7977187817872251,
                 0,
-                38.790000000000134,
-                9.703609443745155e-14,
-                661.2499999999999,
+                38.789999999999964,
+                0,
+                661.25,
                 1
               ]
             }
@@ -3267,7 +3344,8 @@
             "currentState": 94.99999999999989
           }
         ],
-        "hoops_id": 107374182400
+        "vertex_type": "part",
+        "hoops_id": 68719476736
       },
       "edges": [
         8589934695,
@@ -3314,7 +3392,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 34359738368
+        "vertex_type": "part",
+        "hoops_id": 55834574848
       },
       "edges": [
         8589934909,
@@ -3348,7 +3427,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 103079215104
+        "vertex_type": "part",
+        "hoops_id": 85899345920
       },
       "edges": [
         8589934688
@@ -3381,7 +3461,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 98784247808
+        "vertex_type": "part",
+        "hoops_id": 77309411328
       },
       "edges": [
         8589934734,
@@ -3422,7 +3503,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 38654705664
+        "vertex_type": "part",
+        "hoops_id": 60129542144
       },
       "edges": [
         8589934770
@@ -3455,7 +3537,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -107
+        "vertex_type": "part",
+        "hoops_id": -197
       },
       "edges": [
         8589934792
@@ -3488,7 +3571,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -108
+        "vertex_type": "part",
+        "hoops_id": -200
       },
       "edges": [
         8589934780
@@ -3521,7 +3605,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -109
+        "vertex_type": "part",
+        "hoops_id": -203
       },
       "edges": [
         8589934781
@@ -3554,7 +3639,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -110
+        "vertex_type": "part",
+        "hoops_id": -206
       },
       "edges": [
         8589934739,
@@ -3593,7 +3679,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -111
+        "vertex_type": "part",
+        "hoops_id": -209
       },
       "edges": [
         8589934809
@@ -3626,7 +3713,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -112
+        "vertex_type": "part",
+        "hoops_id": -212
       },
       "edges": [
         8589934810
@@ -3659,7 +3747,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 42949672960
+        "vertex_type": "part",
+        "hoops_id": 64424509440
       },
       "edges": [
         8589934740
@@ -3692,7 +3781,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -113
+        "vertex_type": "part",
+        "hoops_id": -215
       },
       "edges": [
         8589934741,
@@ -3726,7 +3816,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -114
+        "vertex_type": "part",
+        "hoops_id": -218
       },
       "edges": [
         8589934742
@@ -3759,7 +3850,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -115
+        "vertex_type": "part",
+        "hoops_id": -221
       },
       "edges": [
         8589934735
@@ -3792,7 +3884,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -116
+        "vertex_type": "part",
+        "hoops_id": -224
       },
       "edges": [
         8589934736,
@@ -3826,7 +3919,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -117
+        "vertex_type": "part",
+        "hoops_id": -227
       },
       "edges": [
         8589934737,
@@ -3860,7 +3954,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -118
+        "vertex_type": "part",
+        "hoops_id": -230
       },
       "edges": [
         8589934821,
@@ -3904,7 +3999,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": 47244640256
+        "vertex_type": "part",
+        "hoops_id": 90194313216
       },
       "edges": []
     },
@@ -3935,7 +4031,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": 115964116992
+        "vertex_type": "part",
+        "hoops_id": 51539607552
       },
       "edges": [
         8589934829,
@@ -3973,7 +4070,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -119
+        "vertex_type": "part",
+        "hoops_id": -233
       },
       "edges": [
         8589934830,
@@ -4009,7 +4107,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -120
+        "vertex_type": "part",
+        "hoops_id": -236
       },
       "edges": [
         8589934828,
@@ -4045,7 +4144,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -121
+        "vertex_type": "part",
+        "hoops_id": -239
       },
       "edges": [
         8589934827,
@@ -4083,7 +4183,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -122
+        "vertex_type": "part",
+        "hoops_id": -242
       },
       "edges": [
         8589934821,
@@ -4117,7 +4218,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -123
+        "vertex_type": "part",
+        "hoops_id": -245
       },
       "edges": [
         8589934822,
@@ -4151,7 +4253,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -124
+        "vertex_type": "part",
+        "hoops_id": -248
       },
       "edges": [
         8589934831,
@@ -4186,7 +4289,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -125
+        "vertex_type": "part",
+        "hoops_id": -251
       },
       "edges": []
     },
@@ -4217,7 +4321,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -126
+        "vertex_type": "part",
+        "hoops_id": -254
       },
       "edges": [
         8589934823,
@@ -4251,7 +4356,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -127
+        "vertex_type": "part",
+        "hoops_id": -257
       },
       "edges": [
         8589934864
@@ -4284,7 +4390,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -128
+        "vertex_type": "part",
+        "hoops_id": -260
       },
       "edges": [
         8589934850,
@@ -4318,7 +4425,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -129
+        "vertex_type": "part",
+        "hoops_id": -263
       },
       "edges": []
     },
@@ -4349,7 +4457,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -130
+        "vertex_type": "part",
+        "hoops_id": -266
       },
       "edges": [
         8589934826
@@ -4382,7 +4491,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -131
+        "vertex_type": "part",
+        "hoops_id": -269
       },
       "edges": [
         8589934753,
@@ -4416,7 +4526,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -132
+        "vertex_type": "part",
+        "hoops_id": -272
       },
       "edges": [
         8589934754,
@@ -4450,7 +4561,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": 51539607552
+        "vertex_type": "part",
+        "hoops_id": 94489280512
       },
       "edges": [
         8589934843,
@@ -4485,7 +4597,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -133
+        "vertex_type": "part",
+        "hoops_id": -275
       },
       "edges": [
         8589934844,
@@ -4519,7 +4632,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -134
+        "vertex_type": "part",
+        "hoops_id": -278
       },
       "edges": []
     },
@@ -4550,7 +4664,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -135
+        "vertex_type": "part",
+        "hoops_id": -281
       },
       "edges": [
         8589934859,
@@ -4585,7 +4700,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -136
+        "vertex_type": "part",
+        "hoops_id": -284
       },
       "edges": [
         8589934878
@@ -4618,7 +4734,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -137
+        "vertex_type": "part",
+        "hoops_id": -287
       },
       "edges": [
         8589934867
@@ -4651,7 +4768,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -138
+        "vertex_type": "part",
+        "hoops_id": -290
       },
       "edges": [
         8589934854,
@@ -4692,7 +4810,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -139
+        "vertex_type": "part",
+        "hoops_id": -293
       },
       "edges": [
         8589934800,
@@ -4726,7 +4845,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -140
+        "vertex_type": "part",
+        "hoops_id": -296
       },
       "edges": [
         8589934801
@@ -4759,7 +4879,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -141
+        "vertex_type": "part",
+        "hoops_id": -299
       },
       "edges": [
         8589934802,
@@ -4793,7 +4914,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -142
+        "vertex_type": "part",
+        "hoops_id": -302
       },
       "edges": [
         8589934883
@@ -4826,7 +4948,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -143
+        "vertex_type": "part",
+        "hoops_id": -305
       },
       "edges": [
         8589934756
@@ -4859,7 +4982,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -144
+        "vertex_type": "part",
+        "hoops_id": -308
       },
       "edges": [
         8589934884
@@ -4892,7 +5016,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -145
+        "vertex_type": "part",
+        "hoops_id": -311
       },
       "edges": [
         8589934833
@@ -4925,7 +5050,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -146
+        "vertex_type": "part",
+        "hoops_id": -314
       },
       "edges": [
         8589934840
@@ -4958,7 +5084,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -147
+        "vertex_type": "part",
+        "hoops_id": -317
       },
       "edges": [
         8589934889
@@ -4991,7 +5118,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": 55834574848
+        "vertex_type": "part",
+        "hoops_id": 81604378624
       },
       "edges": [
         8589934942
@@ -5024,7 +5152,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": 60129542144
+        "vertex_type": "part",
+        "hoops_id": 73014444032
       },
       "edges": [
         8589934934
@@ -5057,7 +5186,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 120259084288
+        "vertex_type": "part",
+        "hoops_id": 103079215104
       },
       "edges": [
         8589934743
@@ -5090,7 +5220,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -148
+        "vertex_type": "part",
+        "hoops_id": -320
       },
       "edges": [
         8589934890
@@ -5123,7 +5254,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -149
+        "vertex_type": "part",
+        "hoops_id": -323
       },
       "edges": [
         8589934687,
@@ -5157,7 +5289,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -150
+        "vertex_type": "part",
+        "hoops_id": -326
       },
       "edges": [
         8589934694,
@@ -5191,7 +5324,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -151
+        "vertex_type": "part",
+        "hoops_id": -329
       },
       "edges": [
         8589934730,
@@ -5225,7 +5359,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -152
+        "vertex_type": "part",
+        "hoops_id": -332
       },
       "edges": [
         8589934967
@@ -5240,7 +5375,8 @@
           "uuid": "ea825e0b-1dc6-4c10-93df-76ed481d6349",
           "ipAddress": "192.168.0.2",
           "hardwareVersion": "V2"
-        }
+        },
+        "vertex_type": "ml_controller"
       },
       "edges": []
     },
@@ -5271,7 +5407,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 64424509440
+        "vertex_type": "part",
+        "hoops_id": 98784247808
       },
       "edges": [
         8589934916
@@ -5304,7 +5441,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 141733920768
+        "vertex_type": "part",
+        "hoops_id": -335
       },
       "edges": [
         8589934917
@@ -5325,7 +5463,8 @@
             "device": 1,
             "pin": 1
           }
-        }
+        },
+        "vertex_type": "ml_output"
       },
       "edges": []
     },
@@ -5344,7 +5483,8 @@
             "device": 1,
             "pin": 2
           }
-        }
+        },
+        "vertex_type": "ml_output"
       },
       "edges": []
     },
@@ -5363,7 +5503,8 @@
             "device": 1,
             "pin": 3
           }
-        }
+        },
+        "vertex_type": "ml_output"
       },
       "edges": []
     },
@@ -5383,7 +5524,8 @@
             "device": 2,
             "pin": 0
           }
-        }
+        },
+        "vertex_type": "ml_input"
       },
       "edges": []
     },
@@ -5403,7 +5545,8 @@
             "device": 2,
             "pin": 1
           }
-        }
+        },
+        "vertex_type": "ml_input"
       },
       "edges": []
     },
@@ -5434,7 +5577,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 68719476736
+        "vertex_type": "part",
+        "hoops_id": 111669149696
       },
       "edges": [
         8589934918
@@ -5468,7 +5612,8 @@
         "end_stop_sensor": 4294967533,
         "drive_to_motor_map": {
           "parent": 4294967548
-        }
+        },
+        "vertex_type": "ml_axis"
       },
       "edges": []
     },
@@ -6122,8 +6267,7 @@
               "x": 45.00000000000008,
               "y": -3.552713678800501e-15,
               "z": 360
-            },
-            "flippedState": false
+            }
           },
           {
             "rotationAngles": {
@@ -6135,8 +6279,7 @@
               "x": 45.00000000000048,
               "y": 449.99999999999994,
               "z": 6.394884621840902e-14
-            },
-            "flippedState": false
+            }
           },
           {
             "rotationAngles": {
@@ -6148,8 +6291,7 @@
               "x": 45.0000000000005,
               "y": 449.99999999999994,
               "z": 315.0000000000003
-            },
-            "flippedState": false
+            }
           }
         ],
         "custom_connector": [
@@ -6368,7 +6510,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -69
+        "vertex_type": "panel",
+        "hoops_id": -71
       },
       "edges": [
         8589934919,
@@ -7026,8 +7169,7 @@
               "x": 44.99999999999962,
               "y": -3.552713678800501e-15,
               "z": -44.99999999999963
-            },
-            "flippedState": false
+            }
           },
           {
             "rotationAngles": {
@@ -7039,8 +7181,7 @@
               "x": 44.9999999999996,
               "y": 449.9999999999999,
               "z": 8.526512829121202e-14
-            },
-            "flippedState": false
+            }
           },
           {
             "rotationAngles": {
@@ -7052,8 +7193,7 @@
               "x": 44.999999999999616,
               "y": 449.9999999999999,
               "z": 314.99999999999994
-            },
-            "flippedState": false
+            }
           }
         ],
         "custom_connector": [
@@ -7272,7 +7412,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -70
+        "vertex_type": "panel",
+        "hoops_id": -72
       },
       "edges": [
         8589934922
@@ -7282,7 +7423,7 @@
       "id": 4294967555,
       "attributes": {
         "type": "machinelogic",
-        "version": 16,
+        "version": 19,
         "name": "MC test",
         "id": "253709f6-7e89-4b46-9d58-4bbdcf4c3ef4",
         "sequences": [
@@ -7291,16 +7432,12 @@
             "type": "Sequence",
             "isLocked": false,
             "isInlineSequence": false,
-            "robotParameters": {
-              "clips": [],
-              "arrays": []
-            },
             "parameters": {},
             "instructions": [
               {
                 "category": "motor",
                 "name": "setActuatorSpeed",
-                "uuid": "de3ef573-2d67-459e-a949-1ee6863ad75d",
+                "uuid": "64d33b8d-bce4-4811-b095-85f7512bdbae",
                 "parameters": {
                   "speed": "250",
                   "axis": "61762d29-56c4-44e6-bca6-c45ada92480f"
@@ -7309,7 +7446,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorAcceleration",
-                "uuid": "d7e5931c-8094-482f-a706-602fcd85122c",
+                "uuid": "c382487b-445b-4ba3-98e7-d7334680aaaf",
                 "parameters": {
                   "acceleration": "250",
                   "axis": "61762d29-56c4-44e6-bca6-c45ada92480f"
@@ -7318,7 +7455,7 @@
               {
                 "category": "motor",
                 "name": "home",
-                "uuid": "0b208a9a-c64b-46bb-bd44-922ab3b95651",
+                "uuid": "f71f7b8f-d55d-40c5-8af6-be54736be6f6",
                 "parameters": {
                   "axis": "61762d29-56c4-44e6-bca6-c45ada92480f"
                 }
@@ -7326,7 +7463,7 @@
               {
                 "category": "trigger",
                 "name": "execute",
-                "uuid": "2999a819-7340-462e-8f7b-18853d5adaa8",
+                "uuid": "d511fb65-9b1c-46df-a8e7-c9601e52c4da",
                 "parameters": {
                   "sequenceName": "Loop move"
                 }
@@ -7338,15 +7475,12 @@
             "type": "Sequence",
             "isLocked": false,
             "isInlineSequence": false,
-            "robotParameters": {
-              "clips": []
-            },
             "parameters": {},
             "instructions": [
               {
                 "category": "loop",
                 "name": "forever",
-                "uuid": "752518f2-6595-4b04-a50a-1d7cd39a7874",
+                "uuid": "3abd251b-9794-444d-afe7-2ce34b33bd3b",
                 "parameters": {
                   "execute": "inSeries",
                   "sequenceName": "Move"
@@ -7359,15 +7493,12 @@
             "type": "Sequence",
             "isLocked": false,
             "isInlineSequence": false,
-            "robotParameters": {
-              "clips": []
-            },
             "parameters": {},
             "instructions": [
               {
                 "category": "waitFor",
                 "name": "event",
-                "uuid": "efb1d441-1c98-40c5-8c81-b7fbe8777dbb",
+                "uuid": "71c913dc-1430-4f8f-9f9f-6263ac91b241",
                 "parameters": {
                   "topic": "move",
                   "message": "",
@@ -7377,7 +7508,7 @@
               {
                 "category": "motor",
                 "name": "moveAbsolute",
-                "uuid": "a29cb83a-d83f-408c-85aa-ba1ff4d9f816",
+                "uuid": "4311c7c7-fc75-4ad1-95bb-ecd3b8785e72",
                 "parameters": {
                   "axis": "61762d29-56c4-44e6-bca6-c45ada92480f",
                   "position": "Position"
@@ -7480,8 +7611,10 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "189684392",
-        "assets": []
+        "uuid": "1456561904",
+        "assets": [],
+        "vertex_type": "ml_application",
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -7512,7 +7645,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 73014444032
+        "vertex_type": "part",
+        "hoops_id": 107374182400
       },
       "edges": [
         8589934926
@@ -7545,7 +7679,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 77309411328
+        "vertex_type": "part",
+        "hoops_id": 128849018880
       },
       "edges": [
         8589934926
@@ -7578,7 +7713,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": 128849018880
+        "vertex_type": "part",
+        "hoops_id": 120259084288
       },
       "edges": [
         8589934940
@@ -7611,7 +7747,8 @@
         },
         "visibility": true,
         "dofs": [],
-        "hoops_id": -153
+        "vertex_type": "part",
+        "hoops_id": -339
       },
       "edges": [
         8589934944,
@@ -7622,7 +7759,7 @@
       "id": 4294967699,
       "attributes": {
         "type": "machinelogic",
-        "version": 16,
+        "version": 19,
         "name": "TestMC",
         "id": "a8921cbd-57ee-45e8-a650-da38c44d16a2",
         "sequences": [
@@ -7631,17 +7768,12 @@
             "type": "Sequence",
             "isLocked": false,
             "isInlineSequence": false,
-            "robotParameters": {
-              "clips": [],
-              "arrays": [],
-              "calibrationParts": []
-            },
             "parameters": {},
             "instructions": [
               {
                 "category": "loop",
                 "name": "forever",
-                "uuid": "45a9da99-40c5-442d-852d-e8150a01016d",
+                "uuid": "ef12d798-b4b7-4245-bb77-7466002a2695",
                 "parameters": {
                   "execute": "inSeries",
                   "sequenceName": "inline_sequence_6e9f2289-7630-4304-929b-765d64ee1297"
@@ -7654,15 +7786,12 @@
             "type": "Sequence",
             "isLocked": false,
             "isInlineSequence": true,
-            "robotParameters": {
-              "clips": []
-            },
             "parameters": {},
             "instructions": [
               {
                 "category": "output",
                 "name": "machineAnalytics",
-                "uuid": "a2521844-92f3-4994-aba7-2714ab1e3ca3",
+                "uuid": "3eb97144-a77e-44e8-b287-e362423949b9",
                 "parameters": {
                   "event": "cycleStart"
                 }
@@ -7670,7 +7799,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorSpeed",
-                "uuid": "28f69cfc-0282-40ed-af56-a46974776d7e",
+                "uuid": "6ed6d85d-9945-4a3c-b62b-2493723c3342",
                 "parameters": {
                   "speed": "100",
                   "axis": "61762d29-56c4-44e6-bca6-c45ada92480f"
@@ -7679,7 +7808,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorAcceleration",
-                "uuid": "90c8b381-a67c-4a60-b7f9-649557d92c2b",
+                "uuid": "5f230319-86c0-4002-811d-6efe3bd0af48",
                 "parameters": {
                   "acceleration": "100",
                   "axis": "61762d29-56c4-44e6-bca6-c45ada92480f"
@@ -7688,7 +7817,7 @@
               {
                 "category": "motor",
                 "name": "home",
-                "uuid": "0ee3dc5c-8b9b-452c-a10c-6f09dd05271a",
+                "uuid": "3dd06fdc-5a40-49b7-988a-6adc02223c4a",
                 "parameters": {
                   "axis": "61762d29-56c4-44e6-bca6-c45ada92480f"
                 }
@@ -7696,7 +7825,7 @@
               {
                 "category": "motor",
                 "name": "moveRelative",
-                "uuid": "6b021fb2-acaa-4313-b1d9-ebb392181cbf",
+                "uuid": "69e3631f-9eb8-4644-ab84-b7dd770eaad3",
                 "parameters": {
                   "axis": "61762d29-56c4-44e6-bca6-c45ada92480f",
                   "distance": "200"
@@ -7705,7 +7834,7 @@
               {
                 "category": "output",
                 "name": "machineAnalytics",
-                "uuid": "9983c8ef-1636-488e-a6b8-498bf155215d",
+                "uuid": "c5ce2233-456f-469f-9607-aec1b8ef9c92",
                 "parameters": {
                   "event": "cycleEnd"
                 }
@@ -7733,8 +7862,10 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "1810049800",
-        "assets": []
+        "uuid": "1983009092",
+        "assets": [],
+        "vertex_type": "ml_application",
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -7742,7 +7873,8 @@
       "id": 4294967701,
       "attributes": {
         "assets": [],
-        "__vertexType__": "machine_logic_library_assets"
+        "__vertexType__": "machine_logic_library_assets",
+        "vertex_type": "ml_assets"
       },
       "edges": []
     },
@@ -7750,7 +7882,7 @@
       "id": 4294967702,
       "attributes": {
         "type": "machine_code",
-        "version": 16,
+        "version": 19,
         "name": "New application (1)",
         "id": "264acd74-0076-4d7e-b856-91e5e175b3e4",
         "loadSource": "singleFile",
@@ -7788,11 +7920,13 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "1380394073",
+        "uuid": "777865385",
         "sourceCode": {
-          "main.py": "from machinelogic import Machine, ActuatorGroup\nfrom machinelogic import MachineException, MachineMotionException, ActuatorGroupException, ActuatorException, DigitalInputException, DigitalOutputException\n\n### Configuration ###\n\n# The following code has been automatically generated from the configuration.\n# If the configuration changes, please update the code below, and ensure that the names match.\n\nmachine = Machine()\n\nmy_controller__1 = machine.get_machine_motion(\"Controller #1\")\n\n# Configured Actuators\nmy_enclosed_tb = machine.get_actuator(\"Enclosed TB\")\n# Configured Inputs\nmy_black = machine.get_input(\"Black\")\nmy_white = machine.get_input(\"White\")\n# Configured Outputs\nmy_green = machine.get_output(\"Green\")\nmy_red = machine.get_output(\"Red\")\nmy_blue = machine.get_output(\"Blue\")\n\n### Program ###\n\n# Start coding here!\n# Documentation can be found at https://vention.io/resources/guides/machinelogic-python-programming-514\n\nprint(\"Hello, Vention\")\n",
-          "project.json": "{\"processes\":{\"onPlay\":[{\"name\":\"MachineCode App\",\"command\":\"python3 -u main.py\"}]}}"
-        }
+          "main.py": "ZnJvbSBtYWNoaW5lbG9naWMgaW1wb3J0IE1hY2hpbmUsIEFjdHVhdG9yR3JvdXAKZnJvbSBtYWNoaW5lbG9naWMgaW1wb3J0IE1hY2hpbmVFeGNlcHRpb24sIE1hY2hpbmVNb3Rpb25FeGNlcHRpb24sIEFjdHVhdG9yR3JvdXBFeGNlcHRpb24sIEFjdHVhdG9yRXhjZXB0aW9uLCBEaWdpdGFsSW5wdXRFeGNlcHRpb24sIERpZ2l0YWxPdXRwdXRFeGNlcHRpb24KCiMjIyBDb25maWd1cmF0aW9uICMjIwoKIyBUaGUgZm9sbG93aW5nIGNvZGUgaGFzIGJlZW4gYXV0b21hdGljYWxseSBnZW5lcmF0ZWQgZnJvbSB0aGUgY29uZmlndXJhdGlvbi4KIyBJZiB0aGUgY29uZmlndXJhdGlvbiBjaGFuZ2VzLCBwbGVhc2UgdXBkYXRlIHRoZSBjb2RlIGJlbG93LCBhbmQgZW5zdXJlIHRoYXQgdGhlIG5hbWVzIG1hdGNoLgoKbWFjaGluZSA9IE1hY2hpbmUoKQoKbXlfY29udHJvbGxlcl9fMSA9IG1hY2hpbmUuZ2V0X21hY2hpbmVfbW90aW9uKCJDb250cm9sbGVyICMxIikKCiMgQ29uZmlndXJlZCBBY3R1YXRvcnMKbXlfZW5jbG9zZWRfdGIgPSBtYWNoaW5lLmdldF9hY3R1YXRvcigiRW5jbG9zZWQgVEIiKQojIENvbmZpZ3VyZWQgSW5wdXRzCm15X2JsYWNrID0gbWFjaGluZS5nZXRfaW5wdXQoIkJsYWNrIikKbXlfd2hpdGUgPSBtYWNoaW5lLmdldF9pbnB1dCgiV2hpdGUiKQojIENvbmZpZ3VyZWQgT3V0cHV0cwpteV9ncmVlbiA9IG1hY2hpbmUuZ2V0X291dHB1dCgiR3JlZW4iKQpteV9yZWQgPSBtYWNoaW5lLmdldF9vdXRwdXQoIlJlZCIpCm15X2JsdWUgPSBtYWNoaW5lLmdldF9vdXRwdXQoIkJsdWUiKQoKIyMjIFByb2dyYW0gIyMjCgojIFN0YXJ0IGNvZGluZyBoZXJlIQojIERvY3VtZW50YXRpb24gY2FuIGJlIGZvdW5kIGF0IGh0dHBzOi8vdmVudGlvbi5pby9yZXNvdXJjZXMvZ3VpZGVzL21hY2hpbmVsb2dpYy1weXRob24tcHJvZ3JhbW1pbmctNTE0CgpwcmludCgiSGVsbG8sIFZlbnRpb24iKQo=",
+          "project.json": "eyJwcm9jZXNzZXMiOnsib25QbGF5IjpbeyJuYW1lIjoiTWFjaGluZUNvZGUgQXBwIiwiY29tbWFuZCI6InB5dGhvbjMgLXUgbWFpbi5weSJ9XX19"
+        },
+        "vertex_type": "ml_application",
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -7812,7 +7946,8 @@
             "device": 3,
             "pin": 0
           }
-        }
+        },
+        "vertex_type": "ml_output"
       },
       "edges": []
     },
@@ -7948,7 +8083,514 @@
             "currentState": 0
           }
         ],
-        "hoops_id": 133143986176
+        "vertex_type": "part",
+        "inner_matrices": [
+          {
+            "hnode_name": "MO-RM-002-0002__2",
+            "hid_offset": 19,
+            "mat": {
+              "m": [
+                1,
+                1.2191232484814011e-31,
+                -1.5308084989341918e-16,
+                0,
+                -1.2152522012240648e-31,
+                1,
+                9.18485099360515e-17,
+                0,
+                1.5308084989341918e-16,
+                -9.184850993605146e-17,
+                1,
+                0,
+                88.99833488910326,
+                33.7460595555076,
+                -89.0018390351338,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "MO-RM-002-0003__2",
+            "hid_offset": 4,
+            "mat": {
+              "m": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                89,
+                4.812292752465587e-16,
+                -89,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "MO-RM-002-0007",
+            "hid_offset": 22,
+            "mat": {
+              "m": [
+                -1,
+                2.7755575615628914e-17,
+                -1.9721522630525295e-30,
+                0,
+                1.9721522630525295e-30,
+                0,
+                -1,
+                0,
+                -2.7755575615628914e-17,
+                -1,
+                0,
+                0,
+                49,
+                10.125,
+                -168,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0010",
+            "hid_offset": 21,
+            "mat": {
+              "m": [
+                6.635826982256294e-30,
+                -1,
+                -6.429395645199886e-16,
+                0,
+                1.0474444154097515e-14,
+                6.429395645199886e-16,
+                -1,
+                0,
+                1,
+                -9.860761315262648e-32,
+                1.0474444154097515e-14,
+                0,
+                143.5,
+                5.150000095367432,
+                -89,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0010",
+            "hid_offset": 20,
+            "mat": {
+              "m": [
+                4.546269349886166e-16,
+                -1,
+                4.546269349886166e-16,
+                0,
+                0.7071067690849304,
+                6.429395645199886e-16,
+                0.7071067690849304,
+                0,
+                -0.7071067690849304,
+                -1.4791141972893971e-31,
+                0.7071067690849304,
+                0,
+                50.46268081665039,
+                5.150000095367432,
+                -50.46268081665039,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "MO-RM-002-0006",
+            "hid_offset": 18,
+            "mat": {
+              "m": [
+                0,
+                1,
+                0,
+                0,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                89,
+                -67.5,
+                -89,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0010",
+            "hid_offset": 17,
+            "mat": {
+              "m": [
+                -6.429395645199886e-16,
+                -1,
+                -4.391015325067256e-30,
+                0,
+                -1,
+                6.429395645199886e-16,
+                -6.982962487054028e-15,
+                0,
+                6.982962487054028e-15,
+                -9.860761315262648e-32,
+                -1,
+                0,
+                89,
+                5.150000095367432,
+                -143.5,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0010",
+            "hid_offset": 16,
+            "mat": {
+              "m": [
+                6.429395645199886e-16,
+                -1,
+                -9.860761315262648e-32,
+                0,
+                1,
+                6.429395645199886e-16,
+                9.860761315262648e-32,
+                0,
+                -9.860761315262648e-32,
+                -9.860761315262648e-32,
+                1,
+                0,
+                89,
+                5.150000095367432,
+                -34.5,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0010",
+            "hid_offset": 14,
+            "mat": {
+              "m": [
+                4.546269349886166e-16,
+                -1,
+                -4.546269349886166e-16,
+                0,
+                0.7071067690849304,
+                6.429395645199886e-16,
+                -0.7071067690849304,
+                0,
+                0.7071067690849304,
+                -1.4791141972893971e-31,
+                0.7071067690849304,
+                0,
+                127.53732299804688,
+                5.150000095367432,
+                -50.46268081665039,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0010",
+            "hid_offset": 13,
+            "mat": {
+              "m": [
+                -2.146203855957315e-30,
+                -1,
+                6.429395645199886e-16,
+                0,
+                -3.491481243527014e-15,
+                6.429395645199886e-16,
+                1,
+                0,
+                -1,
+                -9.860761315262648e-32,
+                -3.491481243527014e-15,
+                0,
+                34.5,
+                5.150000095367432,
+                -89,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0010",
+            "hid_offset": 11,
+            "mat": {
+              "m": [
+                -4.546269349886166e-16,
+                -1,
+                4.546269349886166e-16,
+                0,
+                -0.7071067690849304,
+                6.429395645199886e-16,
+                0.7071067690849304,
+                0,
+                -0.7071067690849304,
+                -9.860761315262648e-32,
+                -0.7071067690849304,
+                0,
+                50.46268081665039,
+                5.150000095367432,
+                -127.53732299804688,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0010",
+            "hid_offset": 3,
+            "mat": {
+              "m": [
+                -4.546269349886166e-16,
+                -1,
+                -4.546269349886166e-16,
+                0,
+                -0.7071067690849304,
+                6.429395645199886e-16,
+                -0.7071067690849304,
+                0,
+                0.7071067690849304,
+                -9.860761315262648e-32,
+                -0.7071067690849304,
+                0,
+                127.53732299804688,
+                5.150000095367432,
+                -127.53732299804688,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0016",
+            "hid_offset": 15,
+            "mat": {
+              "m": [
+                -6.42943323228692e-16,
+                -1,
+                -1.0650215841685487e-16,
+                0,
+                -1,
+                6.42943323228692e-16,
+                -1.9714961845323958e-16,
+                0,
+                1.9714961845323963e-16,
+                1.0650215841685493e-16,
+                -1,
+                0,
+                71.32066154925951,
+                32.396061081386506,
+                -106.67951237497755,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "MO-RM-002-0008",
+            "hid_offset": 12,
+            "mat": {
+              "m": [
+                -0.7241008281707765,
+                6.335511741304207e-17,
+                -0.6896941065788268,
+                0,
+                0.6896941065788268,
+                6.651183783685656e-17,
+                -0.7241008281707765,
+                0,
+                -2.670413868960803e-21,
+                -1,
+                -9.185693071708223e-17,
+                0,
+                161.4162120863689,
+                33.7460595555076,
+                -165.0324329072041,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "MO-RM-002-0008",
+            "hid_offset": 10,
+            "mat": {
+              "m": [
+                -0.3826834261417387,
+                -8.486388718151962e-17,
+                0.9238795042037965,
+                0,
+                -0.9238795042037965,
+                3.521903764552686e-17,
+                -0.3826834261417387,
+                0,
+                -6.214393392127365e-20,
+                -1,
+                -9.18817532456578e-17,
+                0,
+                -8.009016032527597,
+                33.7460595555076,
+                -129.1836017304463,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0016",
+            "hid_offset": 9,
+            "mat": {
+              "m": [
+                1.465364848080349e-17,
+                -1,
+                -7.347918331647435e-16,
+                0,
+                3.6886311531478295e-15,
+                7.347918331647435e-16,
+                -1,
+                0,
+                1,
+                1.465364848080324e-17,
+                3.6886311531478295e-15,
+                0,
+                106.67600822894701,
+                32.396061081386506,
+                -106.67951237497755,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0016",
+            "hid_offset": 8,
+            "mat": {
+              "m": [
+                -1.465364848080325e-17,
+                -1,
+                5.510948132926406e-16,
+                0,
+                -1.0671593640201857e-14,
+                5.510948132926406e-16,
+                1,
+                0,
+                -1,
+                1.465364848080434e-17,
+                -1.0671593640201857e-14,
+                0,
+                71.32066154925951,
+                32.396061081386506,
+                -71.32416569529005,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0016",
+            "hid_offset": 7,
+            "mat": {
+              "m": [
+                4.649912830707796e-16,
+                -1,
+                -5.361163907984256e-16,
+                0,
+                0.7071067690849303,
+                7.078900263348387e-16,
+                -0.7071067690849305,
+                0,
+                0.7071067690849305,
+                -5.029305462534292e-17,
+                0.7071067690849303,
+                0,
+                113.99833488910326,
+                32.396061081386506,
+                -89.0018390351338,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0016",
+            "hid_offset": 6,
+            "mat": {
+              "m": [
+                6.429433232286922e-16,
+                -1,
+                -7.719486145524813e-17,
+                0,
+                1,
+                6.429433232286915e-16,
+                7.18011197315837e-15,
+                0,
+                -7.18011197315837e-15,
+                -7.719486145524799e-17,
+                1,
+                0,
+                106.67600822894701,
+                32.396061081386506,
+                -71.32416569529005,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0016",
+            "hid_offset": 5,
+            "mat": {
+              "m": [
+                -4.442678808623739e-16,
+                -1,
+                -5.568397930068307e-16,
+                0,
+                -0.7071067690849305,
+                7.078900263348385e-16,
+                -0.7071067690849303,
+                0,
+                0.7071067690849303,
+                7.960035158695003e-17,
+                -0.7071067690849305,
+                0,
+                88.99833488910326,
+                32.396061081386506,
+                -114.0018390351338,
+                1
+              ]
+            }
+          },
+          {
+            "hnode_name": "HW-FN-005-0016",
+            "hid_offset": 2,
+            "mat": {
+              "m": [
+                -4.649912830707792e-16,
+                -1,
+                3.524193709263227e-16,
+                0,
+                -0.7071067690849303,
+                5.779966201225454e-16,
+                0.7071067690849305,
+                0,
+                -0.7071067690849305,
+                7.960035158694986e-17,
+                -0.7071067690849303,
+                0,
+                63.99833488910326,
+                32.396061081386506,
+                -89.0018390351338,
+                1
+              ]
+            }
+          }
+        ],
+        "hoops_id": 124554051584
       },
       "edges": [
         8589935196,
@@ -7982,7 +8624,8 @@
           ]
         },
         "dofs": [],
-        "hoops_id": -154
+        "vertex_type": "part",
+        "hoops_id": -342
       },
       "edges": [
         8589935197
@@ -8007,14 +8650,15 @@
             0,
             6.123233995736766e-17,
             0,
-            4246.843940444493,
+            4216.843940444493,
             2948.081839035134,
             3578.5016651108963,
             1
           ]
         },
         "dofs": [],
-        "hoops_id": 81604378624
+        "vertex_type": "part",
+        "hoops_id": 115964116992
       },
       "edges": [
         8589935198
@@ -8029,7 +8673,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|abb4",
           "connector2": "cma_1|ST-EXT-001-1530|male|da1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967406,
@@ -8043,7 +8688,8 @@
           "connector2": "cma_2|ST-EXT-002-1350|male|daa2",
           "user_specified": false,
           "distance1": 0,
-          "distance2": 0
+          "distance2": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967406,
@@ -8056,7 +8702,8 @@
           "connector1": "cma_1|ST-GP-001-0002|male|b1",
           "connector2": "cma_1|ST-EXT-002-1350|female|ga2",
           "user_specified": false,
-          "distance2": 5.684341886080802e-14
+          "distance2": 5.684341886080802e-14,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967428,
@@ -8073,7 +8720,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967406,
@@ -8090,7 +8738,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967406,
@@ -8104,7 +8753,8 @@
           "connector2": "cma_2|ST-EXT-002-1350|male|daa2",
           "user_specified": false,
           "distance1": 0,
-          "distance2": 0
+          "distance2": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967407,
@@ -8117,7 +8767,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|baa3",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 1192.4999999999998
+          "distance1": 1192.4999999999998,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967407,
@@ -8131,7 +8782,8 @@
           "connector2": "cma_1|MO-LM-026-0585__2|female|l1_0",
           "user_specified": false,
           "distance1": 1215,
-          "distance2": 2.799213746640164e-13
+          "distance2": 2.799213746640164e-13,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967407,
@@ -8145,7 +8797,8 @@
           "connector2": "cma_2|ST-EXT-002-1350|male|daa2",
           "user_specified": false,
           "distance1": 0,
-          "distance2": 0
+          "distance2": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967408,
@@ -8159,7 +8812,8 @@
           "connector2": "cma_2|MO-LM-026-0585__2|female|l1_0",
           "user_specified": false,
           "distance1": 1214.9999999999998,
-          "distance2": 45
+          "distance2": 45,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967408,
@@ -8172,7 +8826,8 @@
           "connector1": "cma_1|ST-GP-001-0002|male|a1",
           "connector2": "cma_1|ST-EXT-002-1350|female|baa1",
           "user_specified": false,
-          "distance2": 1305
+          "distance2": 1305,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967425,
@@ -8186,7 +8841,8 @@
           "connector2": "cma_2|MO-LM-026-0585__2|female|l1_0",
           "user_specified": false,
           "distance1": 1147.5,
-          "distance2": 135
+          "distance2": 135,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967409,
@@ -8199,7 +8855,8 @@
           "connector1": "cma_2|ST-EXT-001-1530|female|aa3",
           "connector2": "cma_2|ST-EXT-002-1350|male|caa1",
           "user_specified": true,
-          "distance1": 1080
+          "distance1": 1080,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967418,
@@ -8212,7 +8869,8 @@
           "connector1": "cma_2|ST-EXT-001-1530|female|aa3",
           "connector2": "cma_2|ST-EXT-002-1350|male|cba1",
           "user_specified": false,
-          "distance1": 360
+          "distance1": 360,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967423,
@@ -8226,7 +8884,8 @@
           "connector2": "cma_2|ST-EXT-002-1350|male|daa4",
           "user_specified": false,
           "distance1": 0,
-          "distance2": 1260
+          "distance2": 1260,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967410,
@@ -8240,7 +8899,8 @@
           "connector2": "cma_2|MO-LM-026-0585__2|female|l1_0",
           "user_specified": false,
           "distance1": 1215.0000000000002,
-          "distance2": 225
+          "distance2": 225,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967410,
@@ -8253,7 +8913,8 @@
           "connector1": "cma_2|ST-EXT-001-1530|female|aa3",
           "connector2": "cma_2|ST-EXT-002-1350|male|caa1",
           "user_specified": true,
-          "distance1": 900
+          "distance1": 900,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967418,
@@ -8266,7 +8927,8 @@
           "connector1": "cma_2|ST-EXT-001-1530|female|aa3",
           "connector2": "cma_2|ST-EXT-002-1350|male|cba1",
           "user_specified": false,
-          "distance1": 540
+          "distance1": 540,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967423,
@@ -8280,7 +8942,8 @@
           "connector2": "cma_2|ST-EXT-002-1350|male|daa2",
           "user_specified": false,
           "distance1": 0,
-          "distance2": 1.4210854715202004e-14
+          "distance2": 1.4210854715202004e-14,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967412,
@@ -8294,7 +8957,8 @@
           "connector2": "cma_2|MO-LM-026-0585__2|female|l1_0",
           "user_specified": false,
           "distance1": 1215,
-          "distance2": 405
+          "distance2": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967411,
@@ -8307,7 +8971,8 @@
           "connector1": "cma_2|ST-EXT-001-1530|female|aa3",
           "connector2": "cma_2|ST-EXT-002-1350|male|caa1",
           "user_specified": true,
-          "distance1": 810
+          "distance1": 810,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967418,
@@ -8320,7 +8985,8 @@
           "connector1": "cma_2|ST-EXT-001-1530|female|aa3",
           "connector2": "cma_2|ST-EXT-002-1350|male|cba1",
           "user_specified": false,
-          "distance1": 630
+          "distance1": 630,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967423,
@@ -8334,7 +9000,8 @@
           "connector2": "cma_2|ST-EXT-002-1350|male|daa2",
           "user_specified": false,
           "distance1": 0,
-          "distance2": 3.552713678800501e-14
+          "distance2": 3.552713678800501e-14,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967414,
@@ -8347,7 +9014,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|bab1",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 1192.5
+          "distance1": 1192.5,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967412,
@@ -8360,7 +9028,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ba4",
           "connector2": "cma_1|ST-EXT-001-1350|male|ca1",
           "user_specified": true,
-          "distance1": 360
+          "distance1": 360,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967461,
@@ -8373,7 +9042,8 @@
           "connector1": "cma_1|ST-EXT-001-1350|female|ba1",
           "connector2": "cma_1|ST-HP-003-0001|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967413,
@@ -8386,7 +9056,8 @@
           "connector1": "cma_1|ST-EXT-001-1350|female|ba4",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967413,
@@ -8399,7 +9070,8 @@
           "connector1": "cma_1|ST-EXT-001-1350|female|ba3",
           "connector2": "cma_1|ST-HP-003-0001|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967413,
@@ -8412,7 +9084,8 @@
           "connector1": "cma_1|ST-EXT-001-1530|female|ab3",
           "connector2": "cma_1|ST-EXT-001-1350|male|da2",
           "user_specified": false,
-          "distance2": 1350.0000000000005
+          "distance2": 1350.0000000000005,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967423,
@@ -8425,7 +9098,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ba4",
           "connector2": "cma_1|ST-EXT-001-1350|male|cb3",
           "user_specified": false,
-          "distance1": 360
+          "distance1": 360,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967466,
@@ -8438,7 +9112,8 @@
           "connector1": "cma_1|ST-HP-003-0001|male|ba1",
           "connector2": "cma_1|ST-EXT-001-1350|female|ea3",
           "user_specified": false,
-          "distance2": 1305.0000000000005
+          "distance2": 1305.0000000000005,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967469,
@@ -8451,7 +9126,8 @@
           "connector1": "cma_1|ST-HP-003-0001|male|ba1",
           "connector2": "cma_1|ST-EXT-001-1350|female|ea1",
           "user_specified": false,
-          "distance2": 1305.0000000000005
+          "distance2": 1305.0000000000005,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967470,
@@ -8464,7 +9140,8 @@
           "connector1": "cma_1|ST-HP-003-0001|male|ba2",
           "connector2": "cma_1|ST-EXT-001-1350|female|ea4",
           "user_specified": false,
-          "distance2": 1305.0000000000005
+          "distance2": 1305.0000000000005,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967471,
@@ -8481,7 +9158,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967413,
@@ -8494,7 +9172,8 @@
           "connector1": "cma_2|ST-EXT-001-1530|female|aa3",
           "connector2": "cma_2|ST-EXT-002-1350|male|caa1",
           "user_specified": true,
-          "distance1": 720
+          "distance1": 720,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967418,
@@ -8507,7 +9186,8 @@
           "connector1": "cma_2|ST-EXT-001-1530|female|aa3",
           "connector2": "cma_2|ST-EXT-002-1350|male|cba1",
           "user_specified": false,
-          "distance1": 720
+          "distance1": 720,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967423,
@@ -8521,7 +9201,8 @@
           "connector2": "cma_2|ST-EXT-002-1350|male|daa2",
           "user_specified": false,
           "distance1": 0,
-          "distance2": 1.4210854715202004e-14
+          "distance2": 1.4210854715202004e-14,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967416,
@@ -8534,7 +9215,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|baa1",
           "connector2": "cma_1|ST-GP-001-0002|male|a1",
           "user_specified": false,
-          "distance1": 1305.0000000000005
+          "distance1": 1305.0000000000005,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967416,
@@ -8547,7 +9229,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|baa2",
           "connector2": "cma_1|ST-HP-003-0001|male|ba2",
           "user_specified": false,
-          "distance1": 630
+          "distance1": 630,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967416,
@@ -8560,7 +9243,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|baa2",
           "connector2": "cma_1|ST-HP-003-0001|male|bb2",
           "user_specified": false,
-          "distance1": 675.0000000000005
+          "distance1": 675.0000000000005,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967416,
@@ -8573,7 +9257,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|baa1",
           "connector2": "cma_1|ST-HP-003-0001|male|bb2",
           "user_specified": false,
-          "distance1": 405
+          "distance1": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967416,
@@ -8587,7 +9272,8 @@
           "connector2": "cma_2|MO-LM-026-0585__2|female|l1_2",
           "user_specified": false,
           "distance1": 90.00000000000023,
-          "distance2": 315
+          "distance2": 315,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967417,
@@ -8601,7 +9287,8 @@
           "connector2": "cma_1|ST-EXT-001-0765|male|da1",
           "user_specified": true,
           "distance1": 0,
-          "distance2": 360
+          "distance2": 360,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967418,
@@ -8614,7 +9301,8 @@
           "connector1": "cma_1|ST-EXT-001-1530|female|ab1",
           "connector2": "cma_1|HW-EC-001-0001__2|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967418,
@@ -8627,7 +9315,8 @@
           "connector1": "cma_1|ST-EXT-001-1530|female|ba3",
           "connector2": "cma_1|ST-HP-003-0001|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967418,
@@ -8640,7 +9329,8 @@
           "connector1": "cma_1|ST-GP-001-0002|male|a1",
           "connector2": "cma_1|ST-EXT-001-1530|female|ea2",
           "user_specified": false,
-          "distance2": 1170
+          "distance2": 1170,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967429,
@@ -8653,7 +9343,8 @@
           "connector1": "cma_1|ST-GP-001-0002|male|a1",
           "connector2": "cma_1|ST-EXT-001-1530|female|ea2",
           "user_specified": false,
-          "distance2": 990
+          "distance2": 990,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967430,
@@ -8666,7 +9357,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ab1",
           "connector2": "cma_1|HW-EC-001-0001__2|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967461,
@@ -8679,7 +9371,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|aa1",
           "connector2": "cma_1|HW-EC-001-0001__2|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967461,
@@ -8692,7 +9385,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ba4",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 405
+          "distance1": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967461,
@@ -8704,7 +9398,8 @@
         "attributes": {
           "connector1": "cma_1|ST-SP-010-0001|female|a1",
           "connector2": "cma_1|MO-WL-001-0004|male|a1",
-          "user_specified": false
+          "user_specified": false,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967420,
@@ -8717,7 +9412,8 @@
           "connector1": "cma_1|ST-SP-010-0001|female|a1",
           "connector2": "cma_1|MO-WL-001-0004|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967421,
@@ -8730,7 +9426,8 @@
           "connector1": "cma_1|ST-EXT-001-1530|female|aa1",
           "connector2": "cma_1|HW-EC-001-0001__2|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967423,
@@ -8747,7 +9444,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967423,
@@ -8760,7 +9458,8 @@
           "connector1": "cma_1|ST-EXT-001-1530|female|ba4",
           "connector2": "cma_1|ST-HP-003-0001|male|ba2",
           "user_specified": false,
-          "distance1": 900
+          "distance1": 900,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967423,
@@ -8773,7 +9472,8 @@
           "connector1": "cma_1|ST-EXT-001-1530|female|ba3",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 945
+          "distance1": 945,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967423,
@@ -8786,7 +9486,8 @@
           "connector1": "cma_1|ST-HP-003-0003|male|aa1_0",
           "connector2": "cma_1|ST-EXT-001-0405|female|aa1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967433,
@@ -8799,7 +9500,8 @@
           "connector1": "cma_1|ST-EXT-001-0405|female|ab1",
           "connector2": "cma_1|ST-HP-003-0003|male|aa1_0",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967434,
@@ -8812,7 +9514,8 @@
           "connector1": "cma_1|ST-HP-003-0003|male|aa1_0",
           "connector2": "cma_1|ST-EXT-001-0405|female|aa1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967436,
@@ -8825,7 +9528,8 @@
           "connector1": "cma_1|ST-EXT-001-0405|female|ab1",
           "connector2": "cma_1|ST-HP-003-0003|male|aa1_0",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967437,
@@ -8838,7 +9542,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ab1",
           "connector2": "cma_1|HW-EC-001-0001__2|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967466,
@@ -8851,7 +9556,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|aa1",
           "connector2": "cma_1|HW-EC-001-0001__2|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967466,
@@ -8864,7 +9570,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ba4",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 405
+          "distance1": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967466,
@@ -8876,7 +9583,8 @@
         "attributes": {
           "connector1": "cma_1|ST-SP-010-0001|female|a1",
           "connector2": "cma_1|MO-WL-001-0004|male|a1",
-          "user_specified": false
+          "user_specified": false,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967440,
@@ -8889,7 +9597,8 @@
           "connector1": "cma_1|ST-SP-010-0001|female|a1",
           "connector2": "cma_1|MO-WL-001-0004|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967441,
@@ -8902,7 +9611,8 @@
           "connector1": "cma_1|ST-HP-003-0003|male|aa1_0",
           "connector2": "cma_1|ST-EXT-001-0405|female|aa1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967444,
@@ -8915,7 +9625,8 @@
           "connector1": "cma_1|ST-EXT-001-0405|female|ab1",
           "connector2": "cma_1|ST-HP-003-0003|male|aa1_0",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967445,
@@ -8928,7 +9639,8 @@
           "connector1": "cma_1|ST-HP-003-0003|male|aa1_0",
           "connector2": "cma_1|ST-EXT-001-0405|female|aa1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967447,
@@ -8941,7 +9653,8 @@
           "connector1": "cma_1|ST-EXT-001-0405|female|ab1",
           "connector2": "cma_1|ST-HP-003-0003|male|aa1_0",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967448,
@@ -8958,7 +9671,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967476,
@@ -8975,7 +9689,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967476,
@@ -8988,7 +9703,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ba3",
           "connector2": "cma_1|ST-HP-003-0001|male|a1",
           "user_specified": false,
-          "distance1": 45
+          "distance1": 45,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967476,
@@ -9001,7 +9717,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ba3",
           "connector2": "cma_1|ST-HP-003-0001|male|a1",
           "user_specified": false,
-          "distance1": 449.99999999999983
+          "distance1": 449.99999999999983,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967476,
@@ -9018,7 +9735,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967476,
@@ -9035,7 +9753,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967476,
@@ -9048,7 +9767,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ba3",
           "connector2": "cma_1|ST-EXT-001-0855|male|cb1",
           "user_specified": false,
-          "distance1": 405.00000000000017
+          "distance1": 405.00000000000017,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967476,
@@ -9061,7 +9781,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ba3",
           "connector2": "cma_1|ST-EXT-001-0855|male|cb1",
           "user_specified": false,
-          "distance1": 719.9999999999998
+          "distance1": 719.9999999999998,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967476,
@@ -9074,7 +9795,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ba2",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 405
+          "distance1": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967476,
@@ -9091,7 +9813,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967476,
@@ -9108,7 +9831,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967476,
@@ -9125,7 +9849,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967478,
@@ -9142,7 +9867,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967478,
@@ -9159,7 +9885,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967478,
@@ -9172,7 +9899,8 @@
           "connector1": "cma_1|ST-EXT-001-0855|female|ba2",
           "connector2": "cma_1|ST-HP-003-0001|male|ba2",
           "user_specified": false,
-          "distance1": 855.0000000000005
+          "distance1": 855.0000000000005,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967478,
@@ -9185,7 +9913,8 @@
           "connector1": "cma_1|ST-EXT-001-0855|female|ba1",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967479,
@@ -9198,7 +9927,8 @@
           "connector1": "cma_1|ST-EXT-001-0855|female|ba1",
           "connector2": "cma_1|ST-EXT-001-0270|male|cb1",
           "user_specified": false,
-          "distance1": 405
+          "distance1": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967479,
@@ -9215,7 +9945,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967479,
@@ -9228,7 +9959,8 @@
           "connector1": "cma_1|ST-EXT-001-0855|female|ba3",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967480,
@@ -9245,7 +9977,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967480,
@@ -9258,7 +9991,8 @@
           "connector1": "cma_1|ST-EXT-001-0855|female|ba1",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967481,
@@ -9275,7 +10009,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967481,
@@ -9288,7 +10023,8 @@
           "connector1": "cma_1|ST-EXT-001-0855|female|ba1",
           "connector2": "cma_1|ST-EXT-001-0270|male|cb1",
           "user_specified": false,
-          "distance1": 404.9999999999999
+          "distance1": 404.9999999999999,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967481,
@@ -9301,7 +10037,8 @@
           "connector1": "cma_1|ST-EXT-001-0855|female|ba1",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 449.9999999999999
+          "distance1": 449.9999999999999,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967481,
@@ -9314,7 +10051,8 @@
           "connector1": "cma_1|ST-HP-003-0001|male|a1",
           "connector2": "cma_1|ST-EXT-001-0765|female|ba3",
           "user_specified": false,
-          "distance2": 45
+          "distance2": 45,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967488,
@@ -9327,7 +10065,8 @@
           "connector1": "cma_1|ST-EXT-001-0270|female|ba3",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967493,
@@ -9340,7 +10079,8 @@
           "connector1": "cma_1|ST-EXT-001-0270|female|ba1",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967496,
@@ -9353,7 +10093,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ba1",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 405
+          "distance1": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967499,
@@ -9370,7 +10111,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967499,
@@ -9387,7 +10129,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967499,
@@ -9404,7 +10147,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967499,
@@ -9421,7 +10165,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967499,
@@ -9438,7 +10183,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967499,
@@ -9451,7 +10197,8 @@
           "connector1": "cma_1|ST-HP-003-0001|male|a1",
           "connector2": "cma_1|MO-LM-026-0585__2|female|l3",
           "user_specified": false,
-          "distance2": 0
+          "distance2": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967527,
@@ -9464,7 +10211,8 @@
           "connector1": "cma_1|ST-HP-003-0001|male|a1",
           "connector2": "cma_1|MO-LM-026-0585__2|female|l4",
           "user_specified": false,
-          "distance2": 0
+          "distance2": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967528,
@@ -9481,7 +10229,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967456,
@@ -9498,7 +10247,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967456,
@@ -9515,7 +10265,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967456,
@@ -9532,7 +10283,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967457,
@@ -9545,7 +10297,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|baa2",
           "connector2": "cma_1|imported-PANEL-0256AB479243|universal|a1",
           "user_specified": false,
-          "distance1": 405
+          "distance1": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967416,
@@ -9558,7 +10311,8 @@
           "connector1": "cma_1|ST-EXT-001-0855|female|ba4",
           "connector2": "cma_1|imported-PANEL-0256AB479243|universal|a2",
           "user_specified": false,
-          "distance1": 405
+          "distance1": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967480,
@@ -9571,7 +10325,8 @@
           "connector1": "cma_1|ST-EXT-001-0855|female|ba4",
           "connector2": "cma_1|imported-PANEL-0256AB479243|universal|a3",
           "user_specified": false,
-          "distance1": 405
+          "distance1": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967481,
@@ -9584,7 +10339,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|baa2",
           "connector2": "cma_1|imported-PANEL-B3F9B20A25F9|universal|a1",
           "user_specified": false,
-          "distance1": 405
+          "distance1": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967416,
@@ -9601,7 +10357,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967556,
@@ -9614,7 +10371,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|ga3",
           "connector2": "cma_1|CE-CL-010-0004|male|a1_11",
           "user_specified": false,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967411,
@@ -9628,7 +10386,8 @@
           "connector2": "cma_1|ST-EXT-002-1350|male|daa3",
           "user_specified": false,
           "distance1": 585,
-          "distance2": 1147.5
+          "distance2": 1147.5,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967456,
@@ -9642,7 +10401,8 @@
           "connector2": "cma_1|ST-EXT-002-1350|male|daa4",
           "user_specified": false,
           "distance1": 360.00000000000006,
-          "distance2": 405
+          "distance2": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967476,
@@ -9655,7 +10415,8 @@
           "connector1": "cma_1|ST-HP-003-0001|male|ba2",
           "connector2": "cma_1|ST-EXT-002-1350|female|ea2",
           "user_specified": false,
-          "distance2": 360
+          "distance2": 360,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967482,
@@ -9668,7 +10429,8 @@
           "connector1": "cma_1|ST-HP-003-0001|male|a2",
           "connector2": "cma_1|ST-EXT-002-1350|female|baa2",
           "user_specified": false,
-          "distance2": 450
+          "distance2": 450,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967483,
@@ -9681,7 +10443,8 @@
           "connector1": "cma_1|ST-HP-003-0001|male|a1",
           "connector2": "cma_1|ST-EXT-002-1350|female|ha4",
           "user_specified": false,
-          "distance2": 405
+          "distance2": 405,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967484,
@@ -9694,7 +10457,8 @@
           "connector1": "cma_1|CE-MD-001-0000__2|male|a1_90deg",
           "connector2": "cma_1|ST-EXT-002-1350|female|bab3",
           "user_specified": false,
-          "distance2": 729.4999999999991
+          "distance2": 729.4999999999991,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967524,
@@ -9707,7 +10471,8 @@
           "connector1": "cma_1|ST-HP-003-0003|male|ab1_180deg",
           "connector2": "cma_1|ST-EXT-001-1530|female|ba4",
           "user_specified": false,
-          "distance2": 1164.9950563220327
+          "distance2": 1164.9950563220327,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967446,
@@ -9720,7 +10485,8 @@
           "connector1": "cma_1|ST-HP-003-0003|male|ab1_180deg",
           "connector2": "cma_1|ST-EXT-001-1530|female|ba2",
           "user_specified": false,
-          "distance2": 1164.9950563220327
+          "distance2": 1164.9950563220327,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967449,
@@ -9733,7 +10499,8 @@
           "connector1": "cma_1|ST-EXT-001-0765|female|ba3",
           "connector2": "cma_1|ST-HP-003-0003|male|ab1",
           "user_specified": false,
-          "distance1": 720.0000001084662
+          "distance1": 720.0000001084662,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967461,
@@ -9746,7 +10513,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|bab3",
           "connector2": "cma_1|CE-MD-005-0000|male|a1_270deg",
           "user_specified": false,
-          "distance1": 945
+          "distance1": 945,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967408,
@@ -9759,7 +10527,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|bab3",
           "connector2": "cma_1|CE-SA-007-0000|male|a1_90deg",
           "user_specified": false,
-          "distance1": 540
+          "distance1": 540,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967417,
@@ -9772,7 +10541,8 @@
           "connector1": "cma_1|ST-EXT-002-1350|female|bab3",
           "connector2": "cma_1|CE-MD-004-0000|male|a1_90deg",
           "user_specified": false,
-          "distance1": 630
+          "distance1": 630,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967417,
@@ -9785,7 +10555,8 @@
           "connector1": "cma_1|ST-EXT-001-1530|female|ba2",
           "connector2": "cma_1|ST-HP-003-0003|male|ab1",
           "user_specified": false,
-          "distance1": 315.0000000000002
+          "distance1": 315.0000000000002,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967418,
@@ -9802,7 +10573,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967499,
@@ -9815,7 +10587,8 @@
           "connector1": "cma_1|ST-EXT-001-0855|female|ba3",
           "connector2": "cma_1|ST-HP-003-0001|male|a2",
           "user_specified": false,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967478,
@@ -9832,7 +10605,8 @@
           "surface_offset1": {
             "x": 135,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967427,
@@ -9849,7 +10623,8 @@
           "surface_offset1": {
             "x": 135,
             "y": 45
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967431,
@@ -9866,7 +10641,8 @@
           "surface_offset1": {
             "x": 45,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967427,
@@ -9883,7 +10659,8 @@
           "surface_offset1": {
             "x": 45,
             "y": 45
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967431,
@@ -9897,7 +10674,8 @@
           "connector2": "cma_2|ST-EXT-002-1350|male|daa3",
           "user_specified": false,
           "distance1": 495,
-          "distance2": 1147.5
+          "distance2": 1147.5,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967456,
@@ -9914,7 +10692,8 @@
           "surface_offset1": {
             "x": 135,
             "y": 45
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967452,
@@ -9931,7 +10710,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 45
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967452,
@@ -9948,7 +10728,8 @@
           "surface_offset1": {
             "x": 0,
             "y": -45
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967430,
@@ -9965,7 +10746,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 45
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967428,
@@ -9982,7 +10764,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967431,
@@ -9999,7 +10782,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 45
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967432,
@@ -10016,7 +10800,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967452,
@@ -10033,7 +10818,8 @@
           "surface_offset2": {
             "x": 0,
             "y": -22.5
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967461,
@@ -10050,7 +10836,8 @@
           "surface_offset2": {
             "x": 0,
             "y": -22.5
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967461,
@@ -10067,7 +10854,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 45
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967427,
@@ -10084,7 +10872,8 @@
           "surface_offset1": {
             "x": 0,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967443,
@@ -10101,7 +10890,8 @@
           "surface_offset2": {
             "x": 45,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967461,
@@ -10118,7 +10908,8 @@
           "surface_offset2": {
             "x": 0,
             "y": -22.5
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967466,
@@ -10135,7 +10926,8 @@
           "surface_offset2": {
             "x": 0,
             "y": -22.5
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967466,
@@ -10152,7 +10944,8 @@
           "surface_offset2": {
             "x": 45,
             "y": 0
-          }
+          },
+          "edge_type": "connection"
         },
         "vertices": [
           4294967466,
@@ -10165,7 +10958,8 @@
           "connector1": "cma_1|ST-HP-003-0001|male|a1",
           "connector2": "cma_1|MO-LM-026-0585__2|female|l4",
           "user_specified": false,
-          "distance2": 540
+          "distance2": 540,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967529,
@@ -10178,7 +10972,8 @@
           "connector1": "cma_1|ST-HP-003-0001|male|a2",
           "connector2": "cma_1|MO-LM-026-0585__2|female|l3",
           "user_specified": false,
-          "distance2": 540
+          "distance2": 540,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967530,
@@ -10191,7 +10986,8 @@
           "connector1": "cma_1|ST-EXT-001-1530|female|ba4",
           "connector2": "cma_1|MO-RM-002-0001__3|male|a2",
           "user_specified": false,
-          "distance1": 468.00000000000045
+          "distance1": 468.00000000000045,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967423,
@@ -10204,7 +11000,8 @@
           "connector1": "cma_1_mo_sm|MO-RM-002-0001__3|female|a1",
           "connector2": "cma_1_mo_sm|MO-SM-012-0000|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection"
         },
         "vertices": [
           4294967711,
@@ -10217,7 +11014,9 @@
           "connector1": "cma_1_m18|MO-RM-002-0001__3|female|a70",
           "connector2": "cma_1_m18|CE-SN-004-0001|male|a1",
           "user_specified": true,
-          "distance1": 0
+          "distance1": 0,
+          "edge_type": "connection",
+          "distance2": 30
         },
         "vertices": [
           4294967711,
@@ -10226,6 +11025,6 @@
       }
     }
   },
-  "nextVID": 4294967715,
+  "nextVID": 4294967721,
   "nextEID": 8589935199
 }
