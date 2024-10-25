@@ -1,9 +1,9 @@
 {
-  "format_version": 9,
+  "format_version": 10,
   "format_version_initial": 6,
   "label": "edited_10623",
   "attributes": {
-    "design_id": 13121,
+    "design_id": 13366,
     "design_version": null,
     "measurements": {
       "type": "line",
@@ -12,7 +12,7 @@
     "design_bbox": {
       "min": {
         "x": -2496.500099182129,
-        "y": -9.424392862575593e-15,
+        "y": -172.80065422058104,
         "z": -1353.613643681025
       },
       "max": {
@@ -42,7 +42,7 @@
           -1.5714944584956945,
           2.0053833105414847
         ],
-        "inner_matrices_baseid": 34359738368,
+        "inner_matrices_baseid": 25769803776,
         "inner_matrices": [
           {
             "hnode_name": "Copy_of_Link3_UR10_Step^1000520-1-solid1.STEP.STEP.STEP.STEP",
@@ -604,8 +604,8 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": 34359738368,
-        "fixed_to_ground": true
+        "fixed_to_ground": true,
+        "hoops_id": 25769803776
       },
       "edges": [
         8589934592,
@@ -642,9 +642,9 @@
             0,
             1,
             0,
-            -25.154457191878464,
+            90,
             418.5,
-            89.15325069869868,
+            90,
             1
           ]
         },
@@ -2429,8 +2429,8 @@
           }
         ],
         "vertex_type": "part",
-        "hoops_id": 8589934592,
-        "fixed_to_ground": true
+        "fixed_to_ground": true,
+        "hoops_id": 4294967296
       },
       "edges": []
     },
@@ -2469,6 +2469,7 @@
         "inner_matrices_baseid": 55834574848,
         "inner_matrices": [
           {
+            "hnode_name": "MO-LM-027-0001",
             "hid_offset": 26,
             "mat": {
               "m": [
@@ -2489,10 +2490,10 @@
                 427.5000000000001,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-027-0001"
+            }
           },
           {
+            "hnode_name": "ST-EXT-007-XXXX_0585",
             "hid_offset": 22,
             "mat": {
               "m": [
@@ -2513,10 +2514,10 @@
                 0,
                 1
               ]
-            },
-            "hnode_name": "ST-EXT-007-XXXX_0585"
+            }
           },
           {
+            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100",
             "hid_offset": 2,
             "mat": {
               "m": [
@@ -2537,10 +2538,10 @@
                 870.1499999999999,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100"
+            }
           },
           {
+            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100",
             "hid_offset": 3,
             "mat": {
               "m": [
@@ -2561,10 +2562,10 @@
                 -15.149999999999977,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100"
+            }
           },
           {
+            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100",
             "hid_offset": 4,
             "mat": {
               "m": [
@@ -2585,10 +2586,10 @@
                 870.15,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100"
+            }
           },
           {
+            "hnode_name": "MO-BR-001-0004",
             "hid_offset": 5,
             "mat": {
               "m": [
@@ -2609,10 +2610,10 @@
                 931.2499999999999,
                 1
               ]
-            },
-            "hnode_name": "MO-BR-001-0004"
+            }
           },
           {
+            "hnode_name": "MO-LM-025-0007",
             "hid_offset": 6,
             "mat": {
               "m": [
@@ -2633,10 +2634,10 @@
                 -71.25000000000003,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-025-0007"
+            }
           },
           {
+            "hnode_name": "MO-LM-024-XXXX_1045",
             "hid_offset": 7,
             "mat": {
               "m": [
@@ -2657,10 +2658,10 @@
                 -98.75,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-024-XXXX_1045"
+            }
           },
           {
+            "hnode_name": "MO-BR-001-0004",
             "hid_offset": 8,
             "mat": {
               "m": [
@@ -2681,10 +2682,10 @@
                 931.2499999999997,
                 1
               ]
-            },
-            "hnode_name": "MO-BR-001-0004"
+            }
           },
           {
+            "hnode_name": "MO-LM-025-0001__2",
             "hid_offset": 9,
             "mat": {
               "m": [
@@ -2705,10 +2706,10 @@
                 931.2499999999999,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-025-0001__2"
+            }
           },
           {
+            "hnode_name": "MO-LM-025-0002",
             "hid_offset": 10,
             "mat": {
               "m": [
@@ -2729,10 +2730,10 @@
                 0,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-025-0002"
+            }
           },
           {
+            "hnode_name": "MO-LM-025-0001__2",
             "hid_offset": 11,
             "mat": {
               "m": [
@@ -2753,10 +2754,10 @@
                 -76.25,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-025-0001__2"
+            }
           },
           {
+            "hnode_name": "MO-LM-025-0002",
             "hid_offset": 12,
             "mat": {
               "m": [
@@ -2777,10 +2778,10 @@
                 855,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-025-0002"
+            }
           },
           {
+            "hnode_name": "MO-LM-025-0013__2_6497K113",
             "hid_offset": 13,
             "mat": {
               "m": [
@@ -2801,10 +2802,10 @@
                 931.2499999999999,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-025-0013__2_6497K113"
+            }
           },
           {
+            "hnode_name": "MO-LM-025-0014__2",
             "hid_offset": 14,
             "mat": {
               "m": [
@@ -2825,10 +2826,10 @@
                 -76.25,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-025-0014__2"
+            }
           },
           {
+            "hnode_name": "MO-LM-025-0008",
             "hid_offset": 15,
             "mat": {
               "m": [
@@ -2849,10 +2850,10 @@
                 879.9999999999999,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-025-0008"
+            }
           },
           {
+            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100",
             "hid_offset": 16,
             "mat": {
               "m": [
@@ -2873,10 +2874,10 @@
                 870.15,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100"
+            }
           },
           {
+            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100",
             "hid_offset": 17,
             "mat": {
               "m": [
@@ -2897,10 +2898,10 @@
                 870.1499999999999,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100"
+            }
           },
           {
+            "hnode_name": "MO-LM-025-0007",
             "hid_offset": 18,
             "mat": {
               "m": [
@@ -2921,10 +2922,10 @@
                 926.2499999999999,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-025-0007"
+            }
           },
           {
+            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100",
             "hid_offset": 19,
             "mat": {
               "m": [
@@ -2945,10 +2946,10 @@
                 -15.149999999999977,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100"
+            }
           },
           {
+            "hnode_name": "MO-BR-001-0004",
             "hid_offset": 20,
             "mat": {
               "m": [
@@ -2969,10 +2970,10 @@
                 -76.25000000000063,
                 1
               ]
-            },
-            "hnode_name": "MO-BR-001-0004"
+            }
           },
           {
+            "hnode_name": "MO-LM-025-0014__2",
             "hid_offset": 21,
             "mat": {
               "m": [
@@ -2993,10 +2994,10 @@
                 931.2499999999999,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-025-0014__2"
+            }
           },
           {
+            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100",
             "hid_offset": 23,
             "mat": {
               "m": [
@@ -3017,10 +3018,10 @@
                 -15.149999999999977,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100"
+            }
           },
           {
+            "hnode_name": "MO-LM-025-0013__2_6497K113",
             "hid_offset": 24,
             "mat": {
               "m": [
@@ -3041,10 +3042,10 @@
                 -76.24999999999994,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-025-0013__2_6497K113"
+            }
           },
           {
+            "hnode_name": "MO-LM-025-0008",
             "hid_offset": 25,
             "mat": {
               "m": [
@@ -3065,10 +3066,10 @@
                 -25,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-025-0008"
+            }
           },
           {
+            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100",
             "hid_offset": 27,
             "mat": {
               "m": [
@@ -3089,10 +3090,10 @@
                 -15.150000000000006,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-003-0100_HW-FN-003-0100"
+            }
           },
           {
+            "hnode_name": "MO-BR-001-0004",
             "hid_offset": 28,
             "mat": {
               "m": [
@@ -3113,13 +3114,12 @@
                 -76.24999999999937,
                 1
               ]
-            },
-            "hnode_name": "MO-BR-001-0004"
+            }
           }
         ],
         "vertex_type": "part",
-        "hoops_id": 51539607552,
-        "fixed_to_ground": true
+        "fixed_to_ground": true,
+        "hoops_id": 8589934592
       },
       "edges": [
         8589934593,
@@ -3173,7 +3173,7 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": 73014444032
+        "hoops_id": 12884901888
       },
       "edges": [
         8589934595
@@ -3225,7 +3225,7 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": 98784247808
+        "hoops_id": 21474836480
       },
       "edges": [
         8589934593
@@ -3277,7 +3277,7 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": -129
+        "hoops_id": -69
       },
       "edges": [
         8589934594
@@ -3310,8 +3310,8 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": 38654705664,
-        "fixed_to_ground": true
+        "fixed_to_ground": true,
+        "hoops_id": 30064771072
       },
       "edges": [
         8589934596
@@ -3356,7 +3356,7 @@
             6.123233995736766e-17,
             0,
             -1485,
-            52.2208557128906,
+            -120.57979850769044,
             630,
             1
           ]
@@ -4614,7 +4614,7 @@
           }
         ],
         "vertex_type": "part",
-        "hoops_id": 21474836480
+        "hoops_id": 38654705664
       },
       "edges": [
         8589934596,
@@ -4667,7 +4667,7 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": -130
+        "hoops_id": -70
       },
       "edges": [
         8589934597
@@ -4793,7 +4793,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorSpeed",
-                "uuid": "38070a27-801a-475f-965c-861200b4d2e0",
+                "uuid": "3569b33f-cf04-4fdf-9705-289d3ab0830f",
                 "parameters": {
                   "speed": "400",
                   "axis": "614b1229-081e-41ad-b6a2-516c0390c81a",
@@ -4821,7 +4821,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorAcceleration",
-                "uuid": "7844ff4f-d5e9-4bf9-9800-17b758f1bc1b",
+                "uuid": "6b3aae3d-8f34-4e50-be14-fbf8c9e10f96",
                 "parameters": {
                   "acceleration": "400",
                   "axis": "614b1229-081e-41ad-b6a2-516c0390c81a",
@@ -4849,7 +4849,7 @@
               {
                 "category": "motor",
                 "name": "home",
-                "uuid": "b698dd5d-f1a4-4d5b-af86-afe2dca8b165",
+                "uuid": "ea1520af-8305-481f-9237-88f52a6c6f7e",
                 "parameters": {
                   "axis": "614b1229-081e-41ad-b6a2-516c0390c81a",
                   "robotId": "fca5ed49-22fa-4b4d-89eb-5a3b415fce1d",
@@ -4876,7 +4876,7 @@
               {
                 "category": "motor",
                 "name": "moveAbsolute",
-                "uuid": "5cfac95b-fed2-4eae-bf7b-0c2588910b9b",
+                "uuid": "4eb6c6ea-f721-4d58-aecf-f2f88f9ce6a9",
                 "parameters": {
                   "axis": "614b1229-081e-41ad-b6a2-516c0390c81a",
                   "position": "300",
@@ -4904,7 +4904,7 @@
               {
                 "category": "motor",
                 "name": "moveRelative",
-                "uuid": "17451190-9718-41ac-8d29-250d2cf26e09",
+                "uuid": "1073dc25-0351-4ad1-89e9-d62c6d533672",
                 "parameters": {
                   "axis": "614b1229-081e-41ad-b6a2-516c0390c81a",
                   "distance": "-100",
@@ -4932,7 +4932,7 @@
               {
                 "category": "motor",
                 "name": "moveRelative",
-                "uuid": "9c3cde55-ad8c-4cf1-93cb-59a70c5f116c",
+                "uuid": "235a6eb0-8f10-44ed-aa41-383276de9eda",
                 "parameters": {
                   "axis": "614b1229-081e-41ad-b6a2-516c0390c81a",
                   "distance": "100",
@@ -4980,9 +4980,10 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "587872371",
+        "uuid": "-1313477113",
         "assets": [],
-        "vertex_type": "ml_application"
+        "vertex_type": "ml_application",
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -5004,7 +5005,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorSpeed",
-                "uuid": "99366385-a9d5-46c4-ab15-d7002303c533",
+                "uuid": "ea7bfe5e-7bd3-4116-9b45-1e65aa742034",
                 "parameters": {
                   "speed": "400",
                   "axis": "0be01530-9540-4846-8c5f-f7f1ed3c3f5e",
@@ -5032,7 +5033,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorAcceleration",
-                "uuid": "9f1fe761-d1e2-4fca-9231-5e37230034d1",
+                "uuid": "b1ddd148-2719-46ba-9b45-eb574e6a0a6c",
                 "parameters": {
                   "acceleration": "400",
                   "axis": "0be01530-9540-4846-8c5f-f7f1ed3c3f5e",
@@ -5060,7 +5061,7 @@
               {
                 "category": "motor",
                 "name": "moveRelative",
-                "uuid": "5c8369f4-2866-4801-b6ee-8dc883d512ca",
+                "uuid": "99cd2cb5-fb5b-4311-adfc-722a6d34003e",
                 "parameters": {
                   "axis": "0be01530-9540-4846-8c5f-f7f1ed3c3f5e",
                   "distance": "738",
@@ -5088,7 +5089,7 @@
               {
                 "category": "motor",
                 "name": "moveRelative",
-                "uuid": "a4445a48-75a6-407e-b659-4f8b9a6786bf",
+                "uuid": "8060da54-cacc-4ad8-8720-5c910711e4b1",
                 "parameters": {
                   "axis": "0be01530-9540-4846-8c5f-f7f1ed3c3f5e",
                   "distance": "-738",
@@ -5116,7 +5117,7 @@
               {
                 "category": "motor",
                 "name": "setContinuousMove",
-                "uuid": "61d6191d-8864-4488-b7ed-f910d80fdf3e",
+                "uuid": "20eb0a18-942a-4200-8168-b09c840b729b",
                 "parameters": {
                   "axis": "0be01530-9540-4846-8c5f-f7f1ed3c3f5e",
                   "speed": "400",
@@ -5145,7 +5146,7 @@
               {
                 "category": "waitFor",
                 "name": "amountOfTime",
-                "uuid": "0e11f655-a0f5-4767-9f15-79cdba2bd5ae",
+                "uuid": "5a4ba9f2-6cdd-4ea0-b28c-ca93a9cce196",
                 "parameters": {
                   "milliseconds": "2000",
                   "robotId": "fca5ed49-22fa-4b4d-89eb-5a3b415fce1d",
@@ -5172,7 +5173,7 @@
               {
                 "category": "motor",
                 "name": "stopContinuousMove",
-                "uuid": "eb628545-70a6-4994-9168-c8672fc5e58a",
+                "uuid": "c46db466-dcd9-4372-add9-29b1e1bb1bce",
                 "parameters": {
                   "axis": "0be01530-9540-4846-8c5f-f7f1ed3c3f5e",
                   "acceleration": "0",
@@ -5220,9 +5221,10 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "1363082851",
+        "uuid": "311677353",
         "assets": [],
-        "vertex_type": "ml_application"
+        "vertex_type": "ml_application",
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -5550,7 +5552,7 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": 25769803776
+        "hoops_id": 17179869184
       },
       "edges": []
     },
@@ -5580,7 +5582,7 @@
           ]
         },
         "translation_in_mm": 0,
-        "inner_matrices_baseid": 107374182400,
+        "inner_matrices_baseid": 42949672960,
         "inner_matrices": [
           {
             "hnode_name": "CA-CO-002-0001",
@@ -5903,8 +5905,8 @@
           }
         ],
         "vertex_type": "part",
-        "hoops_id": 107374182400,
-        "fixed_to_ground": true
+        "fixed_to_ground": true,
+        "hoops_id": 42949672960
       },
       "edges": []
     },
@@ -5926,7 +5928,7 @@
               {
                 "category": "motor",
                 "name": "push",
-                "uuid": "ec02fe17-7175-4b22-9bf0-410ea30ce786",
+                "uuid": "7cd7691e-9ff9-47c9-b87b-0484b7ae80ad",
                 "parameters": {
                   "axis": "bd810526-dd2b-473e-82f6-14b107bca842",
                   "waitOnMotionCompletion": "false",
@@ -5954,7 +5956,7 @@
               {
                 "category": "motor",
                 "name": "pull",
-                "uuid": "31fa4e22-31c0-40f6-a784-5ef1f957a1d7",
+                "uuid": "2e47c16a-5c13-4078-a5d0-0170397b05cc",
                 "parameters": {
                   "axis": "bd810526-dd2b-473e-82f6-14b107bca842",
                   "waitOnMotionCompletion": "false",
@@ -5982,7 +5984,7 @@
               {
                 "category": "motor",
                 "name": "push",
-                "uuid": "d393edd1-956d-4323-a4be-d4d6b0c9c7ec",
+                "uuid": "3da1cd4e-f78e-44b8-b8f1-648d73a1bdc7",
                 "parameters": {
                   "axis": "bd810526-dd2b-473e-82f6-14b107bca842",
                   "waitOnMotionCompletion": "true",
@@ -6010,7 +6012,7 @@
               {
                 "category": "motor",
                 "name": "idle",
-                "uuid": "4b66b1cb-4ea2-471c-930e-7f98093abf02",
+                "uuid": "616039a5-0be2-4ece-94c3-79866fd5e8c4",
                 "parameters": {
                   "axis": "bd810526-dd2b-473e-82f6-14b107bca842",
                   "robotId": "fca5ed49-22fa-4b4d-89eb-5a3b415fce1d",
@@ -6037,7 +6039,7 @@
               {
                 "category": "motor",
                 "name": "push",
-                "uuid": "c088c836-835a-4fbe-829d-5a849742fa50",
+                "uuid": "d072a3db-abc2-4944-8982-1ba432df7968",
                 "parameters": {
                   "axis": "bd810526-dd2b-473e-82f6-14b107bca842",
                   "waitOnMotionCompletion": "false",
@@ -6065,7 +6067,7 @@
               {
                 "category": "motor",
                 "name": "pull",
-                "uuid": "708599a9-b244-4ad7-8abc-49f3ea7ac6f9",
+                "uuid": "7b69e37b-edef-4c7a-95b4-daddca3fda57",
                 "parameters": {
                   "axis": "bd810526-dd2b-473e-82f6-14b107bca842",
                   "waitOnMotionCompletion": "false",
@@ -6113,9 +6115,10 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "-730503973",
+        "uuid": "487977143",
         "assets": [],
-        "vertex_type": "ml_application"
+        "vertex_type": "ml_application",
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -6192,8 +6195,8 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": 55834574848,
-        "fixed_to_ground": true
+        "fixed_to_ground": true,
+        "hoops_id": 34359738368
       },
       "edges": []
     },
@@ -6245,7 +6248,7 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": 85899345920
+        "hoops_id": 47244640256
       },
       "edges": [
         8589934600,
@@ -6298,7 +6301,7 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": 150323855360
+        "hoops_id": 51539607552
       },
       "edges": [
         8589934601
@@ -6352,6 +6355,7 @@
         },
         "inner_matrices": [
           {
+            "hnode_name": "MO-RM-002-0002__2",
             "hid_offset": 19,
             "mat": {
               "m": [
@@ -6372,10 +6376,10 @@
                 -89.00000000007799,
                 1
               ]
-            },
-            "hnode_name": "MO-RM-002-0002__2"
+            }
           },
           {
+            "hnode_name": "MO-RM-002-0003__2",
             "hid_offset": 4,
             "mat": {
               "m": [
@@ -6396,10 +6400,10 @@
                 -89,
                 1
               ]
-            },
-            "hnode_name": "MO-RM-002-0003__2"
+            }
           },
           {
+            "hnode_name": "MO-RM-002-0007",
             "hid_offset": 22,
             "mat": {
               "m": [
@@ -6420,10 +6424,10 @@
                 -168,
                 1
               ]
-            },
-            "hnode_name": "MO-RM-002-0007"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0010",
             "hid_offset": 21,
             "mat": {
               "m": [
@@ -6444,10 +6448,10 @@
                 -89,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0010"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0010",
             "hid_offset": 20,
             "mat": {
               "m": [
@@ -6468,10 +6472,10 @@
                 -50.46268081665039,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0010"
+            }
           },
           {
+            "hnode_name": "MO-RM-002-0006",
             "hid_offset": 18,
             "mat": {
               "m": [
@@ -6492,10 +6496,10 @@
                 -89,
                 1
               ]
-            },
-            "hnode_name": "MO-RM-002-0006"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0010",
             "hid_offset": 17,
             "mat": {
               "m": [
@@ -6516,10 +6520,10 @@
                 -143.5,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0010"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0010",
             "hid_offset": 16,
             "mat": {
               "m": [
@@ -6540,10 +6544,10 @@
                 -34.5,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0010"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0010",
             "hid_offset": 14,
             "mat": {
               "m": [
@@ -6564,10 +6568,10 @@
                 -50.46268081665039,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0010"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0010",
             "hid_offset": 13,
             "mat": {
               "m": [
@@ -6588,10 +6592,10 @@
                 -89,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0010"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0010",
             "hid_offset": 11,
             "mat": {
               "m": [
@@ -6612,10 +6616,10 @@
                 -127.53732299804688,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0010"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0010",
             "hid_offset": 3,
             "mat": {
               "m": [
@@ -6636,10 +6640,10 @@
                 -127.53732299804688,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0010"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0016",
             "hid_offset": 15,
             "mat": {
               "m": [
@@ -6660,10 +6664,10 @@
                 -112.49232013146161,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0016"
+            }
           },
           {
+            "hnode_name": "MO-RM-002-0008",
             "hid_offset": 12,
             "mat": {
               "m": [
@@ -6684,10 +6688,10 @@
                 -127.3020020985291,
                 1
               ]
-            },
-            "hnode_name": "MO-RM-002-0008"
+            }
           },
           {
+            "hnode_name": "MO-RM-002-0008",
             "hid_offset": 10,
             "mat": {
               "m": [
@@ -6708,10 +6712,10 @@
                 -166.41412275942764,
                 1
               ]
-            },
-            "hnode_name": "MO-RM-002-0008"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0016",
             "hid_offset": 9,
             "mat": {
               "m": [
@@ -6732,10 +6736,10 @@
                 -97.55050526171476,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0016"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0016",
             "hid_offset": 8,
             "mat": {
               "m": [
@@ -6756,10 +6760,10 @@
                 -80.44949473830707,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0016"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0016",
             "hid_offset": 7,
             "mat": {
               "m": [
@@ -6780,10 +6784,10 @@
                 -78.43454345645546,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0016"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0016",
             "hid_offset": 6,
             "mat": {
               "m": [
@@ -6804,10 +6808,10 @@
                 -65.50767986851952,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0016"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0016",
             "hid_offset": 5,
             "mat": {
               "m": [
@@ -6828,10 +6832,10 @@
                 -111.65769467594055,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0016"
+            }
           },
           {
+            "hnode_name": "HW-FN-005-0016",
             "hid_offset": 2,
             "mat": {
               "m": [
@@ -6852,8 +6856,7 @@
                 -99.56545654348542,
                 1
               ]
-            },
-            "hnode_name": "HW-FN-005-0016"
+            }
           }
         ],
         "dofs": [
@@ -6965,7 +6968,7 @@
         ],
         "inner_matrices_baseid": 111669149696,
         "vertex_type": "part",
-        "hoops_id": 68719476736
+        "hoops_id": 98784247808
       },
       "edges": [
         8589934603,
@@ -7019,8 +7022,8 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": -131,
-        "fixed_to_ground": true
+        "fixed_to_ground": true,
+        "hoops_id": -71
       },
       "edges": [
         8589934605
@@ -7072,7 +7075,7 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": -132
+        "hoops_id": -72
       },
       "edges": [
         8589934603
@@ -7124,7 +7127,7 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": -133
+        "hoops_id": -73
       },
       "edges": [
         8589934604
@@ -7181,7 +7184,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorSpeed",
-                "uuid": "4fc2ea71-9900-42ce-9a2e-3a71efa45c24",
+                "uuid": "4f673497-e4c1-4d1c-9074-d46ddf0e64fd",
                 "parameters": {
                   "speed": "100",
                   "axis": "71841080-c606-4794-8fa5-4bce0f9da550",
@@ -7209,7 +7212,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorAcceleration",
-                "uuid": "6843c38d-51fb-4151-9f39-86ce06be0d6d",
+                "uuid": "80919bcd-2e0f-4e69-95f7-0c57eb44d887",
                 "parameters": {
                   "acceleration": "100",
                   "axis": "71841080-c606-4794-8fa5-4bce0f9da550",
@@ -7237,7 +7240,7 @@
               {
                 "category": "motor",
                 "name": "moveToClosestAngle",
-                "uuid": "37137c4b-52b4-40fc-aed3-f1677d0a767b",
+                "uuid": "2eeaceda-3f4e-4717-bbcb-ce3be7f7b24c",
                 "parameters": {
                   "axis": "71841080-c606-4794-8fa5-4bce0f9da550",
                   "angle": "270",
@@ -7266,7 +7269,7 @@
               {
                 "category": "motor",
                 "name": "moveAbsolute",
-                "uuid": "b0794007-40bb-44a2-bc9d-e9a805dd6f35",
+                "uuid": "348556d8-4cd8-4f58-b997-38955d5acf25",
                 "parameters": {
                   "axis": "71841080-c606-4794-8fa5-4bce0f9da550",
                   "position": "54.08",
@@ -7294,7 +7297,7 @@
               {
                 "category": "motor",
                 "name": "moveRelative",
-                "uuid": "dfdeb713-49b5-4d11-9df0-0cb67972fc66",
+                "uuid": "210d2031-b88e-4514-8c98-b3f40c76aa6e",
                 "parameters": {
                   "axis": "71841080-c606-4794-8fa5-4bce0f9da550",
                   "distance": "-250",
@@ -7322,7 +7325,7 @@
               {
                 "category": "motor",
                 "name": "setContinuousMove",
-                "uuid": "9cef4ef3-65bc-429a-b3fc-b4f12429789b",
+                "uuid": "ea58e7b1-6e93-4f82-9ec8-a4ee9b4a6cd7",
                 "parameters": {
                   "axis": "71841080-c606-4794-8fa5-4bce0f9da550",
                   "speed": "10",
@@ -7351,7 +7354,7 @@
               {
                 "category": "waitFor",
                 "name": "amountOfTime",
-                "uuid": "149a7a94-7018-4c61-82d4-db752ff77699",
+                "uuid": "e760765b-2d02-4633-818d-6bfd148b0f97",
                 "parameters": {
                   "milliseconds": "2000",
                   "robotId": "fca5ed49-22fa-4b4d-89eb-5a3b415fce1d",
@@ -7378,7 +7381,7 @@
               {
                 "category": "motor",
                 "name": "stopContinuousMove",
-                "uuid": "1aaf4917-27d9-4fde-a797-ef0c0b9bfe04",
+                "uuid": "d8d3cd9f-61b7-4c19-bb8c-0bc68c846228",
                 "parameters": {
                   "axis": "71841080-c606-4794-8fa5-4bce0f9da550",
                   "acceleration": "100",
@@ -7406,7 +7409,7 @@
               {
                 "category": "motor",
                 "name": "home",
-                "uuid": "c467647b-45af-4e7a-b45b-a24d3d9fc480",
+                "uuid": "29f5e072-202f-49e1-be44-ad6a058bc239",
                 "parameters": {
                   "axis": "71841080-c606-4794-8fa5-4bce0f9da550",
                   "robotId": "fca5ed49-22fa-4b4d-89eb-5a3b415fce1d",
@@ -7453,9 +7456,10 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "-725442623",
+        "uuid": "-132505902",
         "assets": [],
-        "vertex_type": "ml_application"
+        "vertex_type": "ml_application",
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -7501,12 +7505,13 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "1854742926",
+        "uuid": "-1460253235",
         "vertex_type": "ml_application",
         "sourceCode": {
           "main.py": "ZnJvbSBtYWNoaW5lbG9naWMgaW1wb3J0IE1hY2hpbmUsIEFjdHVhdG9yR3JvdXAKZnJvbSBtYWNoaW5lbG9naWMgaW1wb3J0IE1hY2hpbmVFeGNlcHRpb24sIE1hY2hpbmVNb3Rpb25FeGNlcHRpb24sIEFjdHVhdG9yR3JvdXBFeGNlcHRpb24sIEFjdHVhdG9yRXhjZXB0aW9uLCBQbmV1bWF0aWNFeGNlcHRpb24sIFJvYm90RXhjZXB0aW9uLCBEaWdpdGFsSW5wdXRFeGNlcHRpb24sIERpZ2l0YWxPdXRwdXRFeGNlcHRpb24KCiMjIyBDb25maWd1cmF0aW9uICMjIwoKIyBUaGUgZm9sbG93aW5nIGNvZGUgaGFzIGJlZW4gYXV0b21hdGljYWxseSBnZW5lcmF0ZWQgZnJvbSB0aGUgY29uZmlndXJhdGlvbi4KIyBJZiB0aGUgY29uZmlndXJhdGlvbiBjaGFuZ2VzLCBwbGVhc2UgdXBkYXRlIHRoZSBjb2RlIGJlbG93LCBhbmQgZW5zdXJlIHRoYXQgdGhlIG5hbWVzIG1hdGNoLgoKbWFjaGluZSA9IE1hY2hpbmUoKQoKbXlfY29udHJvbGxlcl9fMSA9IG1hY2hpbmUuZ2V0X21hY2hpbmVfbW90aW9uKCJDb250cm9sbGVyICMxIikKCiMgQ29uZmlndXJlZCBBY3R1YXRvcnMKIyBteV90aW1pbmdfYmVsdCA9IG1hY2hpbmUuZ2V0X2FjdHVhdG9yKCJUaW1pbmcgQmVsdCIpCiMgbXlfY29udmV5b3IgPSBtYWNoaW5lLmdldF9hY3R1YXRvcigiQ29udmV5b3IiKQojIG15X3JvdGFyeV9hY3R1YXRvciA9IG1hY2hpbmUuZ2V0X2FjdHVhdG9yKCJSb3RhcnkgQWN0dWF0b3IiKQojIG15X3BuZXVtYXRpYyA9IG1hY2hpbmUuZ2V0X3BuZXVtYXRpYygiUG5ldW1hdGljIikKIyAjIENvbmZpZ3VyZWQgUm9ib3RzCiMgcm9ib3QgPSBtYWNoaW5lLmdldF9yb2JvdCgiTmV3IHJvYm90IikKIyAjIENvbmZpZ3VyZWQgSW5wdXRzCiMgbXlfcGhvdG9fZWxlY3RyaWMgPSBtYWNoaW5lLmdldF9pbnB1dCgiUGhvdG8gRWxlY3RyaWMiKQojIG15X2luZHVjdGl2ZV9wcm94aW1pdHkgPSBtYWNoaW5lLmdldF9pbnB1dCgiSW5kdWN0aXZlIFByb3hpbWl0eSIpCiMgbXlfYmxhY2tfYnV0dG9uID0gbWFjaGluZS5nZXRfaW5wdXQoIkJsYWNrIEJ1dHRvbiIpCiMgbXlfd2hpdGVfYnV0dG9uID0gbWFjaGluZS5nZXRfaW5wdXQoIldoaXRlIEJ1dHRvbiIpCiMgbXlfY3VzdG9tX2lucHV0ID0gbWFjaGluZS5nZXRfaW5wdXQoIkN1c3RvbSBJbnB1dCIpCiMgIyBDb25maWd1cmVkIE91dHB1dHMKIyBteV9wb3dlcl9zd2l0Y2ggPSBtYWNoaW5lLmdldF9vdXRwdXQoIlBvd2VyIFN3aXRjaCIpCiMgbXlfbmV3X291dHB1dCA9IG1hY2hpbmUuZ2V0X291dHB1dCgiTmV3IG91dHB1dCIpCgojIyMgUHJvZ3JhbSAjIyMKCiMgcm9ib3QubW92ZWooWy0zLjM2LC0xMDguNTUsMTA0LjM2LC04Ni4xOCwtODkuOTgsLTMuMzZdKQojIFN0YXJ0IGNvZGluZyBoZXJlIQojIERvY3VtZW50YXRpb24gY2FuIGJlIGZvdW5kIGF0IGh0dHBzOi8vdmVudGlvbi5pby9yZXNvdXJjZXMvZ3VpZGVzL21hY2hpbmVsb2dpYy1weXRob24tcHJvZ3JhbW1pbmctNTE0CgpwcmludCgiSGVsbG8sIFZlbnRpb24iKQo=",
           "project.json": "eyJwcm9jZXNzZXMiOnsib25QbGF5IjpbeyJuYW1lIjoiTWFjaGluZUNvZGUgQXBwIiwiY29tbWFuZCI6InB5dGhvbjMgLXUgbWFpbi5weSJ9XX19"
-        }
+        },
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -7528,7 +7533,7 @@
               {
                 "category": "output",
                 "name": "digitalOutput",
-                "uuid": "e2d1bb18-8c60-47dc-a263-8cd3cb41101a",
+                "uuid": "cc850c00-8e71-4fd4-9d40-f31a1e869adc",
                 "parameters": {
                   "outputUuid": "eb79d67f-548e-452b-b7c3-cd68d978e97a",
                   "value": 1,
@@ -7538,7 +7543,7 @@
               {
                 "category": "waitFor",
                 "name": "amountOfTime",
-                "uuid": "82adcd5a-af1c-4fad-a079-4046af1b33d3",
+                "uuid": "2b1d71be-7016-4954-b44c-f675d6821279",
                 "parameters": {
                   "milliseconds": "500"
                 }
@@ -7546,7 +7551,7 @@
               {
                 "category": "output",
                 "name": "digitalOutput",
-                "uuid": "657db1cd-137c-43ea-afcf-fcd8db0e3e9c",
+                "uuid": "e1d9f879-8019-407f-8b49-44630348a3d1",
                 "parameters": {
                   "outputUuid": "eb79d67f-548e-452b-b7c3-cd68d978e97a",
                   "value": 0,
@@ -7556,7 +7561,7 @@
               {
                 "category": "waitFor",
                 "name": "amountOfTime",
-                "uuid": "f85dd939-c6d3-4b5f-8e1d-f3e3a4ae6c15",
+                "uuid": "6bd81c8c-bc17-410e-833c-6e09cf566af4",
                 "parameters": {
                   "milliseconds": "500"
                 }
@@ -7564,7 +7569,7 @@
               {
                 "category": "output",
                 "name": "digitalOutput",
-                "uuid": "28e484d9-17f4-4a61-8c3e-b6b99b82b208",
+                "uuid": "63081695-d004-4d73-b105-019d93e14788",
                 "parameters": {
                   "outputUuid": "b5a2e314-1f02-466b-924f-2bc15a7aee15",
                   "value": 1
@@ -7573,7 +7578,7 @@
               {
                 "category": "waitFor",
                 "name": "amountOfTime",
-                "uuid": "35df4e40-8083-4d4f-9b7a-1ecf5dc7e084",
+                "uuid": "886d6d93-3a17-4604-a1fe-dfcb976a7e67",
                 "parameters": {
                   "milliseconds": "500"
                 }
@@ -7581,7 +7586,7 @@
               {
                 "category": "output",
                 "name": "digitalOutput",
-                "uuid": "00831733-7802-4af9-8f85-cf9ed7fd517e",
+                "uuid": "38635ec5-601c-494e-a47e-90dd507789eb",
                 "parameters": {
                   "outputUuid": "b5a2e314-1f02-466b-924f-2bc15a7aee15",
                   "value": 0
@@ -7590,7 +7595,7 @@
               {
                 "category": "waitFor",
                 "name": "amountOfTime",
-                "uuid": "a94d6638-0c14-4b97-8b9e-805db0f0aead",
+                "uuid": "fc2310df-7f70-4fff-94c6-b91d1f44c555",
                 "parameters": {
                   "milliseconds": "500"
                 }
@@ -7636,113 +7641,10 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "-1167223349",
+        "uuid": "109229089",
         "assets": [],
-        "vertex_type": "ml_application"
-      },
-      "edges": []
-    },
-    {
-      "id": 4294967531,
-      "attributes": {
-        "part_number": "CE-SN-006-0002",
-        "short_name": "M18 NPN Through-Beam Photo-Electric Sensor Receiver_236",
-        "kit_number": "CE-SN-006-0001__2",
-        "local_matrix": {
-          "m": [
-            1,
-            0,
-            2.4492935982947064e-16,
-            0,
-            0,
-            1,
-            0,
-            0,
-            -2.4492935982947064e-16,
-            0,
-            1,
-            0,
-            -1005.2988882657027,
-            67.5,
-            1459.5,
-            1
-          ]
-        },
-        "dofs": [],
-        "vertex_type": "part",
-        "hoops_id": 90194313216,
-        "fixed_to_ground": false
-      },
-      "edges": [
-        8589934607,
-        8589934614
-      ]
-    },
-    {
-      "id": 4294967532,
-      "attributes": {
-        "kit_number": "CE-SN-006-0001__2",
-        "is_kit_root": true,
-        "vertex_type": "kit"
-      },
-      "edges": [
-        8589934607,
-        8589934608
-      ]
-    },
-    {
-      "id": 4294967533,
-      "attributes": {
-        "part_number": "CE-SN-006-0003",
-        "short_name": "M18 Through-Beam Photo-Electric Sensor Emitter_238",
-        "kit_number": "CE-SN-006-0001__2",
-        "local_matrix": {
-          "m": [
-            -1,
-            0,
-            -1.2246467991473532e-16,
-            0,
-            0,
-            1,
-            0,
-            0,
-            1.2246467991473532e-16,
-            0,
-            -1,
-            0,
-            -1005.2988882657028,
-            67.5,
-            1839,
-            1
-          ]
-        },
-        "dofs": [],
-        "vertex_type": "part",
-        "hoops_id": 103079215104
-      },
-      "edges": [
-        8589934608,
-        8589934613
-      ]
-    },
-    {
-      "id": 4294967534,
-      "attributes": {
-        "category": "config",
-        "name": "alias",
-        "sensorVID": 4294967531,
-        "parameters": {
-          "aliasName": "through beam",
-          "uuid": "3fe4afba-6e24-46ef-9610-896b00f0ae03",
-          "controllerId": "0135f011-5119-4f34-a1b9-873e24a9956f",
-          "category": "input",
-          "deviceType": "digitalIOModule",
-          "parameters": {
-            "device": 5,
-            "pin": 3
-          }
-        },
-        "vertex_type": "ml_input"
+        "vertex_type": "ml_application",
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -8027,6 +7929,7 @@
         ],
         "inner_matrices": [
           {
+            "hnode_name": "MO-LM-039-0001_CAD Simplified",
             "hid_offset": 6,
             "mat": {
               "m": [
@@ -8047,10 +7950,10 @@
                 751,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-039-0001_CAD Simplified"
+            }
           },
           {
+            "hnode_name": "ST-EXT-010-XXXX_1530",
             "hid_offset": 9,
             "mat": {
               "m": [
@@ -8071,10 +7974,10 @@
                 0,
                 1
               ]
-            },
-            "hnode_name": "ST-EXT-010-XXXX_1530"
+            }
           },
           {
+            "hnode_name": "MO-LM-038-0001",
             "hid_offset": 2,
             "mat": {
               "m": [
@@ -8095,10 +7998,10 @@
                 1563.75,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-038-0001"
+            }
           },
           {
+            "hnode_name": "MO-LM-038-0003",
             "hid_offset": 3,
             "mat": {
               "m": [
@@ -8119,10 +8022,10 @@
                 -16.125,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-038-0003"
+            }
           },
           {
+            "hnode_name": "MO-CP-002-0001__2",
             "hid_offset": 4,
             "mat": {
               "m": [
@@ -8143,10 +8046,10 @@
                 1569.75,
                 1
               ]
-            },
-            "hnode_name": "MO-CP-002-0001__2"
+            }
           },
           {
+            "hnode_name": "MO-LM-038-0017",
             "hid_offset": 5,
             "mat": {
               "m": [
@@ -8167,10 +8070,10 @@
                 -33.75,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-038-0017"
+            }
           },
           {
+            "hnode_name": "MO-LM-037-XXXX",
             "hid_offset": 7,
             "mat": {
               "m": [
@@ -8191,10 +8094,10 @@
                 765,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-037-XXXX"
+            }
           },
           {
+            "hnode_name": "MO-LM-038-0002",
             "hid_offset": 8,
             "mat": {
               "m": [
@@ -8215,10 +8118,10 @@
                 -16.875,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-038-0002"
+            }
           },
           {
+            "hnode_name": "MO-LM-038-0002",
             "hid_offset": 10,
             "mat": {
               "m": [
@@ -8239,10 +8142,10 @@
                 1546.875,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-038-0002"
+            }
           },
           {
+            "hnode_name": "MO-LM-038-0003",
             "hid_offset": 11,
             "mat": {
               "m": [
@@ -8263,13 +8166,12 @@
                 1546.125,
                 1
               ]
-            },
-            "hnode_name": "MO-LM-038-0003"
+            }
           }
         ],
         "vertex_type": "part",
-        "hoops_id": 146028888064,
-        "fixed_to_ground": true
+        "fixed_to_ground": true,
+        "hoops_id": 55834574848
       },
       "edges": [
         8589934609,
@@ -8323,7 +8225,7 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": -134
+        "hoops_id": -74
       },
       "edges": [
         8589934609
@@ -8375,7 +8277,7 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": -135
+        "hoops_id": -75
       },
       "edges": [
         8589934610
@@ -8427,7 +8329,7 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": -136
+        "hoops_id": -76
       },
       "edges": [
         8589934611
@@ -8463,7 +8365,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorSpeed",
-                "uuid": "3c89f4fd-56df-4c63-a76c-c63ef03e9d6e",
+                "uuid": "78c93c03-553a-4390-a479-93f7a6f634b1",
                 "parameters": {
                   "speed": "200",
                   "axis": "4258ae79-618f-421c-8e60-93c865bfebef",
@@ -8491,7 +8393,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorAcceleration",
-                "uuid": "c4b39f8d-dd42-43a0-8ea8-088849f85576",
+                "uuid": "dc545c44-863b-42a5-907c-81fd99a17c18",
                 "parameters": {
                   "acceleration": "400",
                   "axis": "4258ae79-618f-421c-8e60-93c865bfebef",
@@ -8519,7 +8421,7 @@
               {
                 "category": "motor",
                 "name": "home",
-                "uuid": "f0044a57-aefd-4d30-8a3d-cade78768ec1",
+                "uuid": "bb304a36-d194-4340-89e3-83673f7c52a5",
                 "parameters": {
                   "axis": "4258ae79-618f-421c-8e60-93c865bfebef",
                   "robotId": "fca5ed49-22fa-4b4d-89eb-5a3b415fce1d",
@@ -8546,7 +8448,7 @@
               {
                 "category": "motor",
                 "name": "moveAbsolute",
-                "uuid": "5916ff6d-e8ca-46bc-b3bc-0ad7b068b132",
+                "uuid": "1c62fb3a-a566-448b-8c8e-a87d3c7ff1ec",
                 "parameters": {
                   "axis": "4258ae79-618f-421c-8e60-93c865bfebef",
                   "position": "300",
@@ -8574,7 +8476,7 @@
               {
                 "category": "motor",
                 "name": "moveRelative",
-                "uuid": "5c3c1d24-3bc3-4513-be5f-86e351a64303",
+                "uuid": "391256c7-42d7-48ef-b794-505a17a2f71f",
                 "parameters": {
                   "axis": "4258ae79-618f-421c-8e60-93c865bfebef",
                   "distance": "-100",
@@ -8602,7 +8504,7 @@
               {
                 "category": "motor",
                 "name": "moveRelative",
-                "uuid": "5ee01937-fed9-45cc-bafa-a30305fc486f",
+                "uuid": "6e0e97f4-32cd-44ba-93bf-f90774b358db",
                 "parameters": {
                   "axis": "4258ae79-618f-421c-8e60-93c865bfebef",
                   "distance": "100",
@@ -8632,7 +8534,7 @@
         ],
         "initialSequence": "Main program",
         "breakpoints": {},
-        "uuid": "-1757304493",
+        "uuid": "1255620035",
         "parameters": [],
         "robotParameters": {
           "clips": [],
@@ -8640,7 +8542,8 @@
           "calibrationParts": []
         },
         "assets": [],
-        "vertex_type": "ml_application"
+        "vertex_type": "ml_application",
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -8695,7 +8598,7 @@
               {
                 "category": "motor",
                 "name": "push",
-                "uuid": "18d756d2-b399-45ed-8350-51e027bc75a9",
+                "uuid": "9fcae270-1d61-4f0c-9deb-31d76f1b9bcc",
                 "parameters": {
                   "axis": "bd810526-dd2b-473e-82f6-14b107bca842",
                   "waitOnMotionCompletion": "true"
@@ -8704,7 +8607,7 @@
               {
                 "category": "trigger",
                 "name": "call",
-                "uuid": "24db6885-7692-4cdb-a32e-0f5578d5e542",
+                "uuid": "370f8fcd-8d29-45f4-bcca-1ba8a830ace1",
                 "parameters": {
                   "sequenceName": "Wait for pull"
                 }
@@ -8712,7 +8615,7 @@
               {
                 "category": "waitFor",
                 "name": "digitalInput",
-                "uuid": "e59a1ed4-27fe-4ab1-a3a6-53e5002ee3d3",
+                "uuid": "598b98e4-4f5e-4926-bc8b-fec715e74792",
                 "parameters": {
                   "inputUuid": "8f1d47c2-95ce-43e1-8c38-ebd3a5fc843b",
                   "level": 0
@@ -8721,16 +8624,16 @@
               {
                 "category": "waitFor",
                 "name": "digitalInput",
-                "uuid": "cb4b0742-7d1b-44af-93fd-0b1a4f7ce824",
+                "uuid": "a053c5ca-d3a8-4e24-8f4e-8915671f5946",
                 "parameters": {
-                  "inputUuid": "3fe4afba-6e24-46ef-9610-896b00f0ae03",
+                  "inputUuid": "885a7878-1060-4b32-815b-bc0d1faf1448",
                   "level": 0
                 }
               },
               {
                 "category": "trigger",
                 "name": "call",
-                "uuid": "7f7c1808-df9a-4ff6-9ea5-3bc69d877746",
+                "uuid": "f1347d2e-b79c-4b36-8c03-2ca45130df19",
                 "parameters": {
                   "sequenceName": "Wait for Push"
                 }
@@ -8738,7 +8641,7 @@
               {
                 "category": "waitFor",
                 "name": "digitalInput",
-                "uuid": "8c7a32e7-4f62-4e7e-996f-8f951d49600b",
+                "uuid": "8bc38747-3473-494c-9462-abe5ca3bd73e",
                 "parameters": {
                   "inputUuid": "8f1d47c2-95ce-43e1-8c38-ebd3a5fc843b",
                   "level": 1
@@ -8747,16 +8650,16 @@
               {
                 "category": "waitFor",
                 "name": "digitalInput",
-                "uuid": "aafb98d1-7333-490e-82ef-0fcd0f491b7e",
+                "uuid": "9a8fa267-a0c9-43d7-9d0c-7d899aa23646",
                 "parameters": {
-                  "inputUuid": "3fe4afba-6e24-46ef-9610-896b00f0ae03",
+                  "inputUuid": "885a7878-1060-4b32-815b-bc0d1faf1448",
                   "level": 1
                 }
               },
               {
                 "category": "trigger",
                 "name": "call",
-                "uuid": "a223d1b8-2be8-4aaa-93ca-e58e78c5c997",
+                "uuid": "a7c9756f-a0b3-4641-90b0-887b4dfd94db",
                 "parameters": {
                   "sequenceName": "Wait for pull"
                 }
@@ -8764,7 +8667,7 @@
               {
                 "category": "waitFor",
                 "name": "digitalInputEdge",
-                "uuid": "75eaea05-7603-41e2-9319-d5dff9c0e824",
+                "uuid": "29a78e73-e7d0-43d5-919e-9f0e74b4ebae",
                 "parameters": {
                   "inputUuid": "8f1d47c2-95ce-43e1-8c38-ebd3a5fc843b",
                   "edge": "falling"
@@ -8773,7 +8676,7 @@
               {
                 "category": "trigger",
                 "name": "call",
-                "uuid": "745d6158-abf4-42a1-940e-cd813ac329c8",
+                "uuid": "e356dca1-9c3c-47f6-9d03-fea3cba5f88b",
                 "parameters": {
                   "sequenceName": "Wait for Push"
                 }
@@ -8781,7 +8684,7 @@
               {
                 "category": "waitFor",
                 "name": "digitalInputEdge",
-                "uuid": "89401726-7543-4cf6-927e-981c1255c3ef",
+                "uuid": "a7dfc252-b189-4d55-895b-47ed43d0a7e6",
                 "parameters": {
                   "inputUuid": "8f1d47c2-95ce-43e1-8c38-ebd3a5fc843b",
                   "edge": "rising"
@@ -8790,7 +8693,7 @@
               {
                 "category": "trigger",
                 "name": "call",
-                "uuid": "32f9b03c-ba7a-41ad-9578-d236cb372898",
+                "uuid": "33fb85e0-c171-4a1b-8294-25cc602e2ae4",
                 "parameters": {
                   "sequenceName": "Wait for pull"
                 }
@@ -8798,16 +8701,16 @@
               {
                 "category": "waitFor",
                 "name": "digitalInputEdge",
-                "uuid": "5708ca9d-6440-4150-b923-3a057e6f3f17",
+                "uuid": "b759a077-8d05-4eaf-82c7-949cf0a0804c",
                 "parameters": {
-                  "inputUuid": "3fe4afba-6e24-46ef-9610-896b00f0ae03",
+                  "inputUuid": "885a7878-1060-4b32-815b-bc0d1faf1448",
                   "edge": "falling"
                 }
               },
               {
                 "category": "trigger",
                 "name": "call",
-                "uuid": "56f56e75-1e18-4906-8a75-0d1bfdd3afdb",
+                "uuid": "e5076f4e-8d94-4509-8083-26ca53767be1",
                 "parameters": {
                   "sequenceName": "Wait for Push"
                 }
@@ -8815,9 +8718,9 @@
               {
                 "category": "waitFor",
                 "name": "digitalInputEdge",
-                "uuid": "6e727b08-3793-4031-a5f5-19792738357e",
+                "uuid": "fd400e83-63d3-4842-9be7-bf5d264a8b83",
                 "parameters": {
-                  "inputUuid": "3fe4afba-6e24-46ef-9610-896b00f0ae03",
+                  "inputUuid": "885a7878-1060-4b32-815b-bc0d1faf1448",
                   "edge": "rising"
                 }
               }
@@ -8833,7 +8736,7 @@
               {
                 "category": "waitFor",
                 "name": "amountOfTime",
-                "uuid": "02e34ff6-ff9d-401b-9541-00037b4e2b50",
+                "uuid": "47649560-f9b9-48d4-8549-e12c863b4a04",
                 "parameters": {
                   "milliseconds": "1000"
                 }
@@ -8841,7 +8744,7 @@
               {
                 "category": "motor",
                 "name": "pull",
-                "uuid": "b8364e16-86ec-43db-a647-7e012412cc34",
+                "uuid": "50dc9e13-933e-498e-88ec-9fdec249ecea",
                 "parameters": {
                   "axis": "bd810526-dd2b-473e-82f6-14b107bca842",
                   "waitOnMotionCompletion": "true"
@@ -8859,7 +8762,7 @@
               {
                 "category": "waitFor",
                 "name": "amountOfTime",
-                "uuid": "1c64b559-2fcb-4ca4-88a0-dcb534044dbd",
+                "uuid": "01728f54-6ff6-4f6b-ab59-1f5ea6eefe8e",
                 "parameters": {
                   "milliseconds": "1000"
                 }
@@ -8867,7 +8770,7 @@
               {
                 "category": "motor",
                 "name": "push",
-                "uuid": "1e5b0c80-0cb9-4365-abaa-bbfea2cf3b0c",
+                "uuid": "87893efc-c739-4641-a766-7c5884657304",
                 "parameters": {
                   "axis": "bd810526-dd2b-473e-82f6-14b107bca842",
                   "waitOnMotionCompletion": "false"
@@ -8920,9 +8823,10 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "-1235860251",
+        "uuid": "727540922",
         "assets": [],
-        "vertex_type": "ml_application"
+        "vertex_type": "ml_application",
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -8944,7 +8848,7 @@
               {
                 "category": "trigger",
                 "name": "call",
-                "uuid": "db42348c-fe92-47e2-aa4e-3e4aad4549f3",
+                "uuid": "7a8bd981-f7c5-4ce0-885e-53a63af13a99",
                 "parameters": {
                   "sequenceName": "Home Rotary"
                 }
@@ -8952,7 +8856,7 @@
               {
                 "category": "trigger",
                 "name": "call",
-                "uuid": "8bd5c74e-c570-465b-a9f3-ee50ecb2c9da",
+                "uuid": "8d8faa57-27eb-4be0-aa92-394f99e43d6a",
                 "parameters": {
                   "sequenceName": "Home Timing Belt"
                 }
@@ -8960,7 +8864,7 @@
               {
                 "category": "trigger",
                 "name": "call",
-                "uuid": "e698fa12-72db-4fb7-b99a-896091bea960",
+                "uuid": "e2dc697c-a196-4a54-b075-66550c95e560",
                 "parameters": {
                   "sequenceName": "Home Ball screw"
                 }
@@ -8968,7 +8872,7 @@
               {
                 "category": "trigger",
                 "name": "execute",
-                "uuid": "360ec160-bcac-400d-ab68-f5c500a04142",
+                "uuid": "a2b27933-dfcc-47a0-ac62-a1674403e93d",
                 "parameters": {
                   "sequenceName": "Wait for Motion Completion"
                 }
@@ -8976,7 +8880,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorSpeed",
-                "uuid": "315292e5-4ede-4400-b51f-9c169e4ee4c3",
+                "uuid": "a7f51432-3ae7-4438-afdf-928382f03888",
                 "parameters": {
                   "speed": "400",
                   "axis": "614b1229-081e-41ad-b6a2-516c0390c81a"
@@ -8985,7 +8889,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorSpeed",
-                "uuid": "758c1245-ba21-48c4-8673-4151d3362fe1",
+                "uuid": "e2ab7c38-7206-45ff-aaa3-3033f9680558",
                 "parameters": {
                   "speed": "400",
                   "axis": "0be01530-9540-4846-8c5f-f7f1ed3c3f5e"
@@ -8994,7 +8898,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorSpeed",
-                "uuid": "367fe0c7-d547-4af4-a13a-ba44ee2329e1",
+                "uuid": "5ebca46b-cb0d-43ea-b2f2-0c94af4d2204",
                 "parameters": {
                   "speed": "20",
                   "axis": "71841080-c606-4794-8fa5-4bce0f9da550"
@@ -9003,7 +8907,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorSpeed",
-                "uuid": "0641ca39-d3fe-40e6-af8b-63c23a5d36a1",
+                "uuid": "2eddbb01-f8ca-469b-ab68-a5a682aa9003",
                 "parameters": {
                   "speed": "50",
                   "axis": "4258ae79-618f-421c-8e60-93c865bfebef"
@@ -9012,7 +8916,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorAcceleration",
-                "uuid": "6f74a1dd-0f64-423c-bb05-ff217e614a0b",
+                "uuid": "5e934f2b-068d-4a2b-851e-cb0b5b7bc9ff",
                 "parameters": {
                   "acceleration": "200",
                   "axis": "614b1229-081e-41ad-b6a2-516c0390c81a"
@@ -9021,7 +8925,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorAcceleration",
-                "uuid": "05b4d183-fa62-44a7-9567-39d0e9c680b5",
+                "uuid": "f4fa61a3-a95f-4263-8aaa-75369c9bd2b3",
                 "parameters": {
                   "acceleration": "200",
                   "axis": "0be01530-9540-4846-8c5f-f7f1ed3c3f5e"
@@ -9030,7 +8934,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorAcceleration",
-                "uuid": "0c69e240-9d57-444e-82cc-89b41d0fedf2",
+                "uuid": "c9e7cfbc-2e4f-4315-8a3c-9842dc3b545f",
                 "parameters": {
                   "acceleration": "100",
                   "axis": "71841080-c606-4794-8fa5-4bce0f9da550"
@@ -9039,7 +8943,7 @@
               {
                 "category": "motor",
                 "name": "setActuatorAcceleration",
-                "uuid": "c406405f-e4cc-4272-93c5-04bde9d747e9",
+                "uuid": "a55aa4de-1e00-4fb6-a790-b9a5b533661e",
                 "parameters": {
                   "acceleration": "100",
                   "axis": "4258ae79-618f-421c-8e60-93c865bfebef"
@@ -9048,7 +8952,7 @@
               {
                 "category": "motor",
                 "name": "moveRelativeCombined",
-                "uuid": "b61fa5fe-2c60-415d-86ae-0514e36e6f6d",
+                "uuid": "4aca65ee-449c-4ec1-b1e2-e1eaf6b7c22c",
                 "parameters": {
                   "axes": [
                     {
@@ -9073,7 +8977,7 @@
               {
                 "category": "motor",
                 "name": "moveAbsoluteCombined",
-                "uuid": "d5be750d-327d-45a6-9c60-3eab15a1e2ba",
+                "uuid": "43c600cc-6a29-48f8-936d-3cb744dad40f",
                 "parameters": {
                   "axes": [
                     {
@@ -9107,7 +9011,7 @@
               {
                 "category": "motor",
                 "name": "home",
-                "uuid": "7d15bb75-ec06-4007-88fd-5312573b3e3f",
+                "uuid": "6cdb189d-86aa-4d85-98d8-b78a1a24cf00",
                 "parameters": {
                   "axis": "71841080-c606-4794-8fa5-4bce0f9da550"
                 }
@@ -9124,7 +9028,7 @@
               {
                 "category": "motor",
                 "name": "home",
-                "uuid": "009df127-5f42-49d3-b623-4f492a3f7efb",
+                "uuid": "ce2639eb-b3b8-4db7-b8a0-2b1620ed59b3",
                 "parameters": {
                   "axis": "614b1229-081e-41ad-b6a2-516c0390c81a"
                 }
@@ -9141,7 +9045,7 @@
               {
                 "category": "motor",
                 "name": "home",
-                "uuid": "12c96563-296f-417f-bceb-5171c4f727d2",
+                "uuid": "2e5437fd-313a-4c66-b1fa-0480b5ad1898",
                 "parameters": {
                   "axis": "4258ae79-618f-421c-8e60-93c865bfebef"
                 }
@@ -9158,7 +9062,7 @@
               {
                 "category": "waitFor",
                 "name": "motionCompletion",
-                "uuid": "f6ad80a6-80a6-48cd-ae3b-db3dd9320d4b",
+                "uuid": "be135ee1-05be-4997-ac2e-d6f6a83ff568",
                 "parameters": {
                   "axis": "614b1229-081e-41ad-b6a2-516c0390c81a"
                 }
@@ -9166,7 +9070,7 @@
               {
                 "category": "waitFor",
                 "name": "motionCompletion",
-                "uuid": "7e2b7e2c-4d14-4916-8a72-8d864869b518",
+                "uuid": "e812e31c-f4ec-40e7-9cda-7cddff302b20",
                 "parameters": {
                   "axis": "4258ae79-618f-421c-8e60-93c865bfebef"
                 }
@@ -9174,7 +9078,7 @@
               {
                 "category": "waitFor",
                 "name": "motionCompletion",
-                "uuid": "75d76624-0bd3-413e-898d-b7272545d34a",
+                "uuid": "62d78bde-6aab-4d88-81d7-95623998a8b4",
                 "parameters": {
                   "axis": "0be01530-9540-4846-8c5f-f7f1ed3c3f5e"
                 }
@@ -9220,9 +9124,10 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "-637659733",
+        "uuid": "-379873631",
         "assets": [],
-        "vertex_type": "ml_application"
+        "vertex_type": "ml_application",
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -9253,8 +9158,8 @@
         },
         "dofs": [],
         "vertex_type": "part",
-        "hoops_id": 158913789952,
-        "fixed_to_ground": true
+        "fixed_to_ground": true,
+        "hoops_id": 68719476736
       },
       "edges": []
     },
@@ -9474,7 +9379,7 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "847796027",
+        "uuid": "-1253142594",
         "assets": [
           {
             "id": "f3c8c6ce-562c-4f57-b479-678ee8585e1e",
@@ -9630,7 +9535,8 @@
               ]
             }
           }
-        ]
+        ],
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -9640,7 +9546,6 @@
         "vertex_type": "part",
         "part_number": "CE-HW-001-0003",
         "short_name": "M18 Threaded Sensor Bracket_5100",
-        "hoops_id": 382252089344,
         "fixed_to_ground": false,
         "local_matrix": {
           "m": [
@@ -9661,11 +9566,12 @@
             1916.5,
             1
           ]
-        }
+        },
+        "hoops_id": 64424509440
       },
       "edges": [
-        8589934613,
-        8589934615
+        8589934615,
+        8589934631
       ]
     },
     {
@@ -9674,7 +9580,6 @@
         "vertex_type": "part",
         "part_number": "CE-HW-001-0003",
         "short_name": "M18 Threaded Sensor Bracket_5101",
-        "hoops_id": -4154,
         "local_matrix": {
           "m": [
             -1,
@@ -9694,11 +9599,12 @@
             1402,
             1
           ]
-        }
+        },
+        "hoops_id": -77
       },
       "edges": [
-        8589934614,
-        8589934616
+        8589934616,
+        8589934629
       ]
     },
     {
@@ -9707,7 +9613,6 @@
         "vertex_type": "part",
         "part_number": "ST-EXT-001-0765",
         "short_name": "45x45mm (450mm) Aluminum Extrusion_5802",
-        "hoops_id": 425201762304,
         "local_matrix": {
           "m": [
             1,
@@ -9727,7 +9632,8 @@
             2121.25,
             1
           ]
-        }
+        },
+        "hoops_id": 60129542144
       },
       "edges": [
         8589934615,
@@ -9740,7 +9646,6 @@
         "vertex_type": "part",
         "part_number": "CE-SN-007-0007",
         "short_name": "M18 Keyence Bipolar Diffuse Sensor (Sn 500)_6103",
-        "hoops_id": 442381631488,
         "fixed_to_ground": true,
         "local_matrix": {
           "m": [
@@ -9761,7 +9666,8 @@
             1481.3482600731659,
             1
           ]
-        }
+        },
+        "hoops_id": 73014444032
       },
       "edges": []
     },
@@ -9792,7 +9698,6 @@
         "vertex_type": "part",
         "part_number": "MO-CV-024-0945",
         "short_name": "Dorner 3200 Belt Conveyor, 305mm x 945mm_6514",
-        "hoops_id": 532575944704,
         "local_matrix": {
           "m": [
             1,
@@ -9813,7 +9718,8 @@
             1
           ]
         },
-        "fixed_to_ground": true
+        "fixed_to_ground": true,
+        "hoops_id": 77309411328
       },
       "edges": [
         8589934623,
@@ -9829,7 +9735,6 @@
         "vertex_type": "part",
         "part_number": "MO-CV-008-0001",
         "short_name": "Belt Conveyor Mounting Bracket_6515",
-        "hoops_id": 571230650368,
         "ghost_data": [
           254,
           1,
@@ -9868,7 +9773,8 @@
             -956.356779972529,
             1
           ]
-        }
+        },
+        "hoops_id": 81604378624
       },
       "edges": [
         8589934623
@@ -9880,7 +9786,6 @@
         "vertex_type": "part",
         "part_number": "MO-CV-008-0001",
         "short_name": "Belt Conveyor Mounting Bracket_6516",
-        "hoops_id": 575525617664,
         "ghost_data": [
           254,
           1,
@@ -9919,7 +9824,8 @@
             -956.356779972529,
             1
           ]
-        }
+        },
+        "hoops_id": -78
       },
       "edges": [
         8589934624
@@ -9931,7 +9837,6 @@
         "vertex_type": "part",
         "part_number": "MO-CV-008-0001",
         "short_name": "Belt Conveyor Mounting Bracket_6517",
-        "hoops_id": 579820584960,
         "ghost_data": [
           254,
           1,
@@ -9970,7 +9875,8 @@
             -1273.156779972529,
             1
           ]
-        }
+        },
+        "hoops_id": -79
       },
       "edges": [
         8589934625
@@ -9982,7 +9888,6 @@
         "vertex_type": "part",
         "part_number": "MO-CV-008-0001",
         "short_name": "Belt Conveyor Mounting Bracket_6518",
-        "hoops_id": 592705486848,
         "ghost_data": [
           254,
           1,
@@ -10021,7 +9926,8 @@
             -1273.156779972529,
             1
           ]
-        }
+        },
+        "hoops_id": -318
       },
       "edges": [
         8589934626
@@ -10033,7 +9939,6 @@
         "vertex_type": "part",
         "part_number": "MO-CV-023-0001",
         "short_name": "Motor Mount for Dorner 3200_6519",
-        "hoops_id": 588410519552,
         "ghost_data": [
           254,
           1,
@@ -10072,7 +9977,8 @@
             -1273.326779972529,
             1
           ]
-        }
+        },
+        "hoops_id": 85899345920
       },
       "edges": [
         8589934627,
@@ -10085,7 +9991,6 @@
         "vertex_type": "part",
         "part_number": "MO-SM-022-0005",
         "short_name": "1/2 HP AC Motor and 8:1 Gearbox, for Dorner 3200_6520",
-        "hoops_id": 584115552256,
         "ghost_data": [
           254,
           1,
@@ -10124,7 +10029,8 @@
             -1323.326779972529,
             1
           ]
-        }
+        },
+        "hoops_id": 107374182400
       },
       "edges": [
         8589934628
@@ -10186,7 +10092,7 @@
               {
                 "category": "motor",
                 "name": "moveVFD",
-                "uuid": "50369cd8-a9e9-489e-b6d4-646a7171626a",
+                "uuid": "5d04804e-4445-47d4-8c79-8d564e8c5cfd",
                 "parameters": {
                   "axis": "086c1c2e-bbdf-4e71-ad01-16a0046f53f5",
                   "direction": "forward"
@@ -10195,7 +10101,7 @@
               {
                 "category": "waitFor",
                 "name": "amountOfTime",
-                "uuid": "190fd776-ddbe-4702-b6cd-4758df3cb176",
+                "uuid": "891da1f8-2800-4528-8fd6-b0f04cedc84c",
                 "parameters": {
                   "milliseconds": "2500"
                 }
@@ -10203,7 +10109,7 @@
               {
                 "category": "motor",
                 "name": "moveVFD",
-                "uuid": "51fb3da8-be7f-4dfb-af68-6806b4c2f03b",
+                "uuid": "a83150d9-b608-4768-89ed-033cab092455",
                 "parameters": {
                   "axis": "086c1c2e-bbdf-4e71-ad01-16a0046f53f5",
                   "direction": "reverse"
@@ -10212,7 +10118,7 @@
               {
                 "category": "waitFor",
                 "name": "amountOfTime",
-                "uuid": "09786710-f67f-4b38-97f4-5c390d872244",
+                "uuid": "5e4e2a3b-f6e6-438f-9079-862089341b1f",
                 "parameters": {
                   "milliseconds": "2500"
                 }
@@ -10253,8 +10159,9 @@
         },
         "deployedByMachineCloud": false,
         "__vertexType__": "machinelogic_application_base",
-        "uuid": "1014197549",
-        "assets": []
+        "uuid": "-565107943",
+        "assets": [],
+        "isReadOnly": false
       },
       "edges": []
     },
@@ -10264,7 +10171,6 @@
         "vertex_type": "part",
         "part_number": "CE-MD-014-0001",
         "short_name": "Momentary Pushbutton Module_6932",
-        "hoops_id": 627065225216,
         "local_matrix": {
           "m": [
             1,
@@ -10284,7 +10190,8 @@
             -641.5757625745609,
             1
           ]
-        }
+        },
+        "hoops_id": 94489280512
       },
       "edges": []
     },
@@ -10327,6 +10234,267 @@
             "pin": 1
           }
         }
+      },
+      "edges": []
+    },
+    {
+      "id": 4294974647,
+      "attributes": {
+        "vertex_type": "part",
+        "part_number": "CE-SN-006-0005",
+        "short_name": "M18 PNP Through-Beam Photo-Electric Sensor Receiver_7352",
+        "kit_number": "CE-SN-006-0004__2",
+        "local_matrix": {
+          "m": [
+            1,
+            0,
+            2.4492935982947064e-16,
+            0,
+            0,
+            1,
+            0,
+            0,
+            -2.4492935982947064e-16,
+            0,
+            1,
+            0,
+            -1005.2988882657025,
+            67.5,
+            1479.5,
+            1
+          ]
+        },
+        "hoops_id": 90194313216
+      },
+      "edges": [
+        8589934629,
+        8589934630
+      ]
+    },
+    {
+      "id": 4294974648,
+      "attributes": {
+        "vertex_type": "kit",
+        "kit_number": "CE-SN-006-0004__2",
+        "is_kit_root": true
+      },
+      "edges": [
+        8589934630,
+        8589934632
+      ]
+    },
+    {
+      "id": 4294974649,
+      "attributes": {
+        "vertex_type": "part",
+        "part_number": "CE-SN-006-0003",
+        "short_name": "M18 Through-Beam Photo-Electric Sensor Emitter_7354",
+        "kit_number": "CE-SN-006-0004__2",
+        "local_matrix": {
+          "m": [
+            -1,
+            0,
+            -1.2246467991473532e-16,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1.2246467991473532e-16,
+            0,
+            -1,
+            0,
+            -1005.2988882657028,
+            67.5,
+            1839,
+            1
+          ]
+        },
+        "hoops_id": 103079215104
+      },
+      "edges": [
+        8589934631,
+        8589934632
+      ]
+    },
+    {
+      "id": 4294974650,
+      "attributes": {
+        "vertex_type": "ml_input",
+        "category": "config",
+        "name": "alias",
+        "sensorVID": 4294974647,
+        "parameters": {
+          "aliasName": "through beam",
+          "uuid": "885a7878-1060-4b32-815b-bc0d1faf1448",
+          "controllerId": "0135f011-5119-4f34-a1b9-873e24a9956f",
+          "category": "input",
+          "deviceType": "digitalIOModule",
+          "parameters": {
+            "device": 3,
+            "pin": 1
+          }
+        }
+      },
+      "edges": []
+    },
+    {
+      "id": 4294974755,
+      "attributes": {
+        "vertex_type": "part",
+        "part_number": "imported-IMP-8805_10180",
+        "short_name": "IMP-8805_7460",
+        "local_matrix": {
+          "m": [
+            -0.3999999999990322,
+            -5.492411518530517e-7,
+            6.869959301123397e-7,
+            0,
+            -5.087629601492733e-7,
+            0.3703703508797992,
+            -0.00012015490363083104,
+            0,
+            -5.203164470543802e-7,
+            -0.00009830855823082017,
+            -0.3030302870833104,
+            0,
+            -1684.000099098945,
+            222.98794459271434,
+            323.1117186837799,
+            1
+          ]
+        },
+        "hoops_id": -2151,
+        "isPlaceHolderPart": true,
+        "visibility": true
+      },
+      "edges": []
+    },
+    {
+      "id": 4294974855,
+      "attributes": {
+        "vertex_type": "part",
+        "part_number": "imported-IMP-8805_10180",
+        "short_name": "IMP-8805_7560",
+        "local_matrix": {
+          "m": [
+            0.0019399628752101883,
+            0.000027321097112491485,
+            -0.7999976473700411,
+            0,
+            -0.000011589370199320706,
+            0.5555555551116539,
+            0.000018944936118850182,
+            0,
+            0.606058823986741,
+            0.00001259279511983622,
+            0.0014696692754560016,
+            0,
+            -1163.9773443542315,
+            732.2400456261786,
+            -1114.786304443498,
+            1
+          ]
+        },
+        "hoops_id": -2548,
+        "isPlaceHolderPart": true,
+        "visibility": true
+      },
+      "edges": []
+    },
+    {
+      "id": 4294974856,
+      "attributes": {
+        "vertex_type": "part",
+        "part_number": "imported-IMP-8805_10180",
+        "short_name": "IMP-8805_7561",
+        "local_matrix": {
+          "m": [
+            0.0004832379165484291,
+            0.000027336273107874325,
+            -0.7999998535836391,
+            0,
+            -0.00000911229021388823,
+            0.5555555551566763,
+            0.000018978022196143307,
+            0,
+            0.6060604954114184,
+            0.000009928172641385373,
+            0.00036608967013205466,
+            0,
+            -1134.6598230850625,
+            582.2427827868102,
+            -1114.292081826428,
+            1
+          ]
+        },
+        "hoops_id": -2549,
+        "isPlaceHolderPart": true,
+        "visibility": true
+      },
+      "edges": []
+    },
+    {
+      "id": 4294974857,
+      "attributes": {
+        "vertex_type": "part",
+        "part_number": "imported-IMP-8805_10180",
+        "short_name": "IMP-8805_7562",
+        "local_matrix": {
+          "m": [
+            0.0005060305911042562,
+            0.000027418499502348362,
+            -0.7999998394882754,
+            0,
+            -0.000005805397836410931,
+            0.5555555551990581,
+            0.00001903695632563522,
+            0,
+            0.6060604847836785,
+            0.0000063200237114073345,
+            0.00038335672522353076,
+            0,
+            -1138.148596234038,
+            432.24715212407597,
+            -1114.3059939456675,
+            1
+          ]
+        },
+        "hoops_id": -2553,
+        "isPlaceHolderPart": true,
+        "visibility": true
+      },
+      "edges": []
+    },
+    {
+      "id": 4294974858,
+      "attributes": {
+        "vertex_type": "part",
+        "part_number": "imported-IMP-8805_10180",
+        "short_name": "IMP-8805_7563",
+        "local_matrix": {
+          "m": [
+            0.000013312921961627923,
+            0.000027467308172090758,
+            -0.7999999994176956,
+            0,
+            -0.000002026715408866471,
+            0.5555555552244064,
+            0.00001907448583958604,
+            0,
+            0.6060606059726555,
+            0.000002210615984688508,
+            0.000010085622846104403,
+            0,
+            -1126.372832886625,
+            282.2516217124436,
+            -1114.3153545678513,
+            1
+          ]
+        },
+        "hoops_id": -2557,
+        "isPlaceHolderPart": true,
+        "visibility": true
       },
       "edges": []
     }
@@ -10474,26 +10642,6 @@
           4294967392
         ]
       },
-      "8589934607": {
-        "id": 8589934607,
-        "attributes": {
-          "edge_type": "empty"
-        },
-        "vertices": [
-          4294967532,
-          4294967531
-        ]
-      },
-      "8589934608": {
-        "id": 8589934608,
-        "attributes": {
-          "edge_type": "empty"
-        },
-        "vertices": [
-          4294967532,
-          4294967533
-        ]
-      },
       "8589934609": {
         "id": 8589934609,
         "attributes": {
@@ -10531,34 +10679,6 @@
         "vertices": [
           4294967808,
           4294967805
-        ]
-      },
-      "8589934613": {
-        "id": 8589934613,
-        "attributes": {
-          "edge_type": "connection",
-          "connector1": "cma_1_m18|CE-SN-006-0003|male|a1",
-          "connector2": "cma_1_m18|CE-HW-001-0003|female|b3_0",
-          "user_specified": true,
-          "distance1": 0
-        },
-        "vertices": [
-          4294967533,
-          4294972395
-        ]
-      },
-      "8589934614": {
-        "id": 8589934614,
-        "attributes": {
-          "edge_type": "connection",
-          "connector1": "cma_1_m18|CE-SN-006-0002|male|a1",
-          "connector2": "cma_1_m18|CE-HW-001-0003|female|b3_0",
-          "user_specified": true,
-          "distance1": 20
-        },
-        "vertices": [
-          4294967531,
-          4294972396
         ]
       },
       "8589934615": {
@@ -10671,9 +10791,57 @@
           4294973814,
           4294973815
         ]
+      },
+      "8589934629": {
+        "id": 8589934629,
+        "attributes": {
+          "edge_type": "connection",
+          "connector1": "cma_1_m18|CE-HW-001-0003|female|b3_0",
+          "connector2": "cma_1_m18|CE-SN-006-0005|male|a1",
+          "user_specified": true,
+          "distance1": 0
+        },
+        "vertices": [
+          4294972396,
+          4294974647
+        ]
+      },
+      "8589934630": {
+        "id": 8589934630,
+        "attributes": {
+          "edge_type": "empty"
+        },
+        "vertices": [
+          4294974648,
+          4294974647
+        ]
+      },
+      "8589934631": {
+        "id": 8589934631,
+        "attributes": {
+          "edge_type": "connection",
+          "connector1": "cma_1_m18|CE-HW-001-0003|female|b3_0",
+          "connector2": "cma_1_m18|CE-SN-006-0003|male|a1",
+          "user_specified": true,
+          "distance1": 0
+        },
+        "vertices": [
+          4294972395,
+          4294974649
+        ]
+      },
+      "8589934632": {
+        "id": 8589934632,
+        "attributes": {
+          "edge_type": "empty"
+        },
+        "vertices": [
+          4294974648,
+          4294974649
+        ]
       }
     }
   },
-  "nextVID": 4294974646,
-  "nextEID": 8589934629
+  "nextVID": 4294974859,
+  "nextEID": 8589934633
 }
