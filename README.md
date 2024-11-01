@@ -16,4 +16,5 @@ This repository serves as the central hub for tracking and versioning all design
    - Explanation: Clearly explain the reason behind each change to ensure clarity and document the intent of the modification.
    - Screenshots: Where possible, include a screenshot highlighting the modified section of the design to aid in visual verification and review.
 3. Approval:
-   - Ensure that either a QA team member, a simulation team member or PM (Guillaume Bouillier & Simon Metivier)  is notified and reviews the change.
+   - Ensure that either a QA team member, a simulation team member or PM (Guillaume Boulianne
+ & Simon Metivier)  is notified and reviews the change.
