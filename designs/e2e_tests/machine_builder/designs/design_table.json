@@ -1,0 +1,452 @@
+{
+  "id": 84602,
+  "design_id": 754,
+  "graph_version": "1",
+  "created_at": "2024-02-06T14:02:43.110Z",
+  "updated_at": "2024-02-06T14:02:44.578Z",
+  "tag": null,
+  "parent_version": "0",
+  "user_id": 89,
+  "explicitly_saved": true,
+  "num_parts": 1,
+  "num_distinct_parts": 1,
+  "version_name": null,
+  "aws_name": "design_versions/84602d754v1.gz",
+  "graph_md5": "eae4d7cc89b47095688963de15b5b634",
+  "graph_size_in_bytes": 33995,
+  "distinct_parts": [],
+  "distinct_imported_parts": [],
+  "distinct_kits": [],
+  "num_vertices": 1,
+  "num_edges": 0,
+  "num_imported_parts": 0,
+  "num_panels": 0,
+  "num_panel_strips": 0,
+  "num_custom_connectors": 0,
+  "modified_ratio_v_prev": 1.0,
+  "modified_ratio_v_0": 0.0,
+  "additional_information": {
+    "ML": {
+      "python_programmable": false,
+      "code_free_programmable": false,
+      "programming": {
+        "commands": 0,
+        "config_step_1": 0,
+        "program_step_2": 0,
+        "instruction_step3": 0
+      }
+    },
+    "modified_parts": {
+      "v_prev": {
+        "added": 0,
+        "removed": 3,
+        "modified": 0,
+        "preserved": 0
+      },
+      "v_0": {
+        "added": 0,
+        "removed": 0,
+        "modified": 0,
+        "preserved": 0
+      }
+    },
+    "s3": {
+      "etag": "\"16cd12da0b95125dc900cb54c144a553\"",
+      "server_side_encryption": "AES256"
+    }
+  },
+  "thumbnail_image_url": "https://assets-demo.vention.io/uploads/assemblies_graph/thumbnail_image/84602/b23e79cea49d19b9ffbc475767f3dad29c402a29d27a26f3.png",
+  "graph": {
+    "format_version": 8,
+    "format_version_initial": 8,
+    "label": "edited_381582",
+    "attributes": {
+      "design_id": 387885,
+      "design_version": null,
+      "measurements": {
+        "type": "face",
+        "visible": true
+      },
+      "cut_to_length": {},
+      "design_bbox": {
+        "min": {
+          "x": -292.5,
+          "y": -1.1013412404281553e-13,
+          "z": -270.0000000000001
+        },
+        "max": {
+          "x": 742.5,
+          "y": 990,
+          "z": 675.0000000000002
+        }
+      },
+      "feedback": {
+        "after_parts_added": true,
+        "after_design_saved": false,
+        "after_design_exported": false
+      }
+    },
+    "vertices_by_index": [
+      {
+        "id": 4294967342,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "ST-EXT-001-0945",
+          "short_name": "45x45mm (945mm) Aluminum Extrusion_47",
+          "hoops_id": 21474836480,
+          "fixed_to_ground": true,
+          "local_matrix": {
+            "m": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -270, 22.5, -270, 1]
+          }
+        },
+        "edges": [8589934686, 8589934687, 8589934690, 8589934691]
+      },
+      {
+        "id": 4294967343,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "ST-EXT-001-0945",
+          "short_name": "45x45mm (945mm) Aluminum Extrusion_48",
+          "hoops_id": -1155,
+          "local_matrix": {
+            "m": [0, -6.123233995736765e-17, 1, 0, 0, 1, 6.123233995736765e-17, 0, -1, 0, 0, 0, 697.5, 22.500000000000004, 652.5, 1]
+          }
+        },
+        "edges": [8589934686, 8589934688]
+      },
+      {
+        "id": 4294967344,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "ST-EXT-001-0945",
+          "short_name": "45x45mm (945mm) Aluminum Extrusion_49",
+          "hoops_id": -1206,
+          "local_matrix": {
+            "m": [0, -6.123233995736766e-17, 1, 0, 0, 1, 6.123233995736766e-17, 0, -1, 0, 0, 0, 697.5, 22.5, -247.5, 1]
+          }
+        },
+        "edges": [8589934687, 8589934689]
+      },
+      {
+        "id": 4294967345,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "ST-EXT-001-0945",
+          "short_name": "45x45mm (945mm) Aluminum Extrusion_50",
+          "hoops_id": -1257,
+          "local_matrix": {
+            "m": [-1, 0, 0, 0, 0, 1, -1.2246467991473532e-16, 0, 0, -1.2246467991473532e-16, -1, 0, 720, 22.500000000000007, 675, 1]
+          }
+        },
+        "edges": [8589934688, 8589934689, 8589934692, 8589934693]
+      },
+      {
+        "id": 4294967347,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "ST-EXT-001-0945",
+          "short_name": "45x45mm (945mm) Aluminum Extrusion_52",
+          "hoops_id": -1311,
+          "local_matrix": {
+            "m": [-1, 0, -1.2246467991473532e-16, 0, 1.2246467991473532e-16, 0, -1, 0, 0, -1, 0, 0, -270, 990, 652.5, 1]
+          }
+        },
+        "edges": [8589934690, 8589934694, 8589934698]
+      },
+      {
+        "id": 4294967348,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "ST-EXT-001-0945",
+          "short_name": "45x45mm (945mm) Aluminum Extrusion_53",
+          "hoops_id": -1362,
+          "local_matrix": {
+            "m": [6.123233995736765e-17, 0, -1, 0, 1, 0, 6.123233995736765e-17, 0, 0, -1, 0, 0, -270, 990, -247.5, 1]
+          }
+        },
+        "edges": [8589934691, 8589934695, 8589934696]
+      },
+      {
+        "id": 4294967350,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "ST-EXT-001-0945",
+          "short_name": "45x45mm (945mm) Aluminum Extrusion_55",
+          "hoops_id": -1416,
+          "local_matrix": {
+            "m": [-1, 0, 0, 0, 0, -1.2246467991473532e-16, -1, 0, 0, -1, 1.2246467991473532e-16, 0, 720, 990, 652.4999999999999, 1]
+          }
+        },
+        "edges": [8589934692, 8589934699, 8589934700]
+      },
+      {
+        "id": 4294967352,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "ST-EXT-001-0945",
+          "short_name": "45x45mm (945mm) Aluminum Extrusion_57",
+          "hoops_id": -1470,
+          "local_matrix": {
+            "m": [
+              1, 1.4997597826618576e-32, 1.2246467991473532e-16, 0, -1.2246467991473532e-16, 1.2246467991473532e-16, 1, 0, 0, -1,
+              1.2246467991473532e-16, 0, 720, 989.9999999999999, -247.5000000000001, 1
+            ]
+          }
+        },
+        "edges": [8589934693, 8589934697, 8589934701]
+      },
+      {
+        "id": 4294967353,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "ST-EXT-001-0855",
+          "short_name": "45x45mm (855mm) Aluminum Extrusion_58",
+          "hoops_id": 25769803776,
+          "local_matrix": {
+            "m": [
+              -1, 1.224646799147353e-16, -6.123233995736765e-17, 0, 1.224646799147353e-16, 1, 7.498798913309285e-33, 0,
+              6.123233995736765e-17, 0, -1, 0, -270, 967.5, 630, 1
+            ]
+          }
+        },
+        "edges": [8589934694, 8589934695]
+      },
+      {
+        "id": 4294967355,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "ST-EXT-001-0945",
+          "short_name": "45x45mm (945mm) Aluminum Extrusion_60",
+          "hoops_id": -1572,
+          "local_matrix": {
+            "m": [
+              -6.123233995736765e-17, 1.2246467991473532e-16, 1, 0, 7.498798913309287e-33, 1, -1.2246467991473532e-16, 0, -1, 0,
+              -6.123233995736765e-17, 0, 697.4999999999999, 967.5, -247.5, 1
+            ]
+          }
+        },
+        "edges": [8589934696, 8589934697]
+      },
+      {
+        "id": 4294967357,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "ST-EXT-001-0945",
+          "short_name": "45x45mm (945mm) Aluminum Extrusion_62",
+          "hoops_id": -1626,
+          "local_matrix": {
+            "m": [
+              -1.2246467991473532e-16, 1.2246467991473532e-16, 1, 0, 1.4997597826618576e-32, 1, -1.2246467991473532e-16, 0, -1, 0,
+              -1.2246467991473532e-16, 0, 697.5000000000001, 967.5, 652.5000000000002, 1
+            ]
+          }
+        },
+        "edges": [8589934698, 8589934699]
+      },
+      {
+        "id": 4294967358,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "ST-EXT-001-0855",
+          "short_name": "45x45mm (855mm) Aluminum Extrusion_63",
+          "hoops_id": -1677,
+          "local_matrix": {
+            "m": [
+              -1, -1.2246467991473532e-16, -1.224646799147353e-16, 0, -1.224646799147353e-16, 1, -1.2246467991473535e-16, 0,
+              1.2246467991473532e-16, -1.2246467991473532e-16, -1, 0, 719.9999999999998, 967.5, 630, 1
+            ]
+          }
+        },
+        "edges": [8589934700, 8589934701]
+      }
+    ],
+    "edges": {
+      "by_id": {
+        "8589934686": {
+          "id": 8589934686,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba4",
+            "connector2": "cma_1|ST-EXT-001-0945|male|cb4",
+            "user_specified": false,
+            "distance1": 900
+          },
+          "vertices": [4294967342, 4294967343]
+        },
+        "8589934687": {
+          "id": 8589934687,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba4",
+            "connector2": "cma_1|ST-EXT-001-0945|male|cb4",
+            "user_specified": false,
+            "distance1": 0
+          },
+          "vertices": [4294967342, 4294967344]
+        },
+        "8589934688": {
+          "id": 8589934688,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|aa4",
+            "connector2": "cma_1|ST-EXT-001-0945|male|db2_180deg",
+            "user_specified": false,
+            "distance2": 0
+          },
+          "vertices": [4294967343, 4294967345]
+        },
+        "8589934689": {
+          "id": 8589934689,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|aa4",
+            "connector2": "cma_1|ST-EXT-001-0945|male|db2_180deg",
+            "user_specified": false,
+            "distance2": 900
+          },
+          "vertices": [4294967344, 4294967345]
+        },
+        "8589934690": {
+          "id": 8589934690,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba3",
+            "connector2": "cma_1|ST-EXT-001-0945|male|cb3",
+            "user_specified": false,
+            "distance1": 900
+          },
+          "vertices": [4294967342, 4294967347]
+        },
+        "8589934691": {
+          "id": 8589934691,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba3",
+            "connector2": "cma_1|ST-EXT-001-0945|male|cb2",
+            "user_specified": false,
+            "distance1": 0
+          },
+          "vertices": [4294967342, 4294967348]
+        },
+        "8589934692": {
+          "id": 8589934692,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba3",
+            "connector2": "cma_1|ST-EXT-001-0945|male|cb1",
+            "user_specified": false,
+            "distance1": 0
+          },
+          "vertices": [4294967345, 4294967350]
+        },
+        "8589934693": {
+          "id": 8589934693,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba3",
+            "connector2": "cma_1|ST-EXT-001-0945|male|cb3",
+            "user_specified": false,
+            "distance1": 900
+          },
+          "vertices": [4294967345, 4294967352]
+        },
+        "8589934694": {
+          "id": 8589934694,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba3",
+            "connector2": "cma_1|ST-EXT-001-0855|male|ca3",
+            "user_specified": false,
+            "distance1": 0
+          },
+          "vertices": [4294967347, 4294967353]
+        },
+        "8589934695": {
+          "id": 8589934695,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba2",
+            "connector2": "cma_1|ST-EXT-001-0855|male|cb3",
+            "user_specified": false,
+            "distance1": 0
+          },
+          "vertices": [4294967348, 4294967353]
+        },
+        "8589934696": {
+          "id": 8589934696,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba3",
+            "connector2": "cma_1|ST-EXT-001-0945|male|cb3",
+            "user_specified": false,
+            "distance1": 0
+          },
+          "vertices": [4294967348, 4294967355]
+        },
+        "8589934697": {
+          "id": 8589934697,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba2",
+            "connector2": "cma_1|ST-EXT-001-0945|male|ca3",
+            "user_specified": false,
+            "distance1": 1.1368683772161603e-13
+          },
+          "vertices": [4294967352, 4294967355]
+        },
+        "8589934698": {
+          "id": 8589934698,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba2",
+            "connector2": "cma_1|ST-EXT-001-0945|male|cb3",
+            "user_specified": false,
+            "distance1": 0
+          },
+          "vertices": [4294967347, 4294967357]
+        },
+        "8589934699": {
+          "id": 8589934699,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba4",
+            "connector2": "cma_1|ST-EXT-001-0945|male|ca3",
+            "user_specified": false,
+            "distance1": 0
+          },
+          "vertices": [4294967350, 4294967357]
+        },
+        "8589934700": {
+          "id": 8589934700,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba3",
+            "connector2": "cma_1|ST-EXT-001-0855|male|ca3",
+            "user_specified": false,
+            "distance1": 0
+          },
+          "vertices": [4294967350, 4294967358]
+        },
+        "8589934701": {
+          "id": 8589934701,
+          "attributes": {
+            "edge_type": "connection",
+            "connector1": "cma_1|ST-EXT-001-0945|female|ba3",
+            "connector2": "cma_1|ST-EXT-001-0855|male|cb3",
+            "user_specified": false,
+            "distance1": 0
+          },
+          "vertices": [4294967352, 4294967358]
+        }
+      }
+    },
+    "nextVID": 4294967359,
+    "nextEID": 8589934702
+  },
+  "is_latest": true,
+  "exchange_rate": {
+    "rate": "1.27",
+    "currency_code": "CAD",
+    "currency_symbol": "$"
+  }
+}
