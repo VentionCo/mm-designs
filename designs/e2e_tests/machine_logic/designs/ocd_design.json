@@ -1,0 +1,82 @@
+{
+  "id": 574,
+  "design_id": 4,
+  "graph_version": "2",
+  "created_at": "2024-09-08T02:05:40.529Z",
+  "updated_at": "2024-09-08T02:05:40.529Z",
+  "tag": null,
+  "parent_version": "1",
+  "user_id": 1,
+  "explicitly_saved": false,
+  "num_parts": 1,
+  "num_distinct_parts": 1,
+  "version_name": null,
+  "aws_name": "design_versions/574d112v2.gz",
+  "graph_md5": null,
+  "graph_size_in_bytes": null,
+  "distinct_parts": [],
+  "distinct_imported_parts": [],
+  "distinct_kits": [],
+  "num_vertices": null,
+  "num_edges": null,
+  "num_imported_parts": null,
+  "num_panels": null,
+  "num_panel_strips": null,
+  "num_custom_connectors": null,
+  "modified_ratio_v_prev": null,
+  "modified_ratio_v_0": null,
+  "additional_information": null,
+  "thumbnail_image_url": "https://ventionavatars-demo.s3.amazonaws.com/uploads/assemblies_graph/thumbnail_image/574/693853f6d491f448de12b9d52cb734e281251201a31d00ef.png?X-Amz-Expires=345600\u0026X-Amz-Date=20240908T020635Z\u0026X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAYUELIE7YGBOHDRSH%2F20240908%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=f76764e7d049e70d9f43f3ea971b2d50c0348ff63a16127f071230d44fadac95",
+  "graph": {
+    "format_version": 8,
+    "format_version_initial": 8,
+    "label": "edited_112",
+    "attributes": {
+      "design_id": 4,
+      "design_version": null,
+      "measurements": {
+        "type": "face",
+        "visible": true
+      },
+      "design_bbox": {
+        "min": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "max": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    },
+    "vertices_by_index": [
+      {
+        "id": 4294967296,
+        "attributes": {
+          "vertex_type": "part",
+          "part_number": "CE-CL-010-0004",
+          "short_name": "MachineMotion 2 - Four Drive_1",
+          "hoops_id": 4294967296,
+          "fixed_to_ground": true,
+          "local_matrix": {
+            "m": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 418.5, 225, 1]
+          }
+        },
+        "edges": []
+      }
+    ],
+    "edges": {
+      "by_id": {}
+    },
+    "nextVID": 4294967297,
+    "nextEID": 8589934592
+  },
+  "is_latest": true,
+  "exchange_rate": {
+    "rate": "1.0",
+    "currency_code": "USD",
+    "currency_symbol": "$"
+  }
+}

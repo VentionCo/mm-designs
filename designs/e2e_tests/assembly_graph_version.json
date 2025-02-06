@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "graph_version": "1",
+    "sold": 0,
+    "grandfathered_ml_program_sold": null,
+    "date_created": 1707228163110.077,
+    "explicit": true,
+    "user_id": 89,
+    "email": "qatester@vention.cc",
+    "first_name": "QA",
+    "last_name": "Tester",
+    "version_name": null,
+    "thumbnail_image_url": "https://assets-demo.vention.io/uploads/assemblies_graph/thumbnail_image/84602/b23e79cea49d19b9ffbc475767f3dad29c402a29d27a26f3.png",
+    "user": {
+      "avatar_url": "https://assets.vention.io/png/avatars/default_avatar.png"
+    }
+  }
+]
